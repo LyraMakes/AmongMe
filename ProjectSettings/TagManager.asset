@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OtherPlayers
+  - UI Buttons
+  - Vents
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Objects
+  - Players
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Always Behind Player
+    uniqueID: 1715963843
+    locked: 0
+  - name: Variable
+    uniqueID: 1440254973
+    locked: 0
+  - name: Always In Front Of Player
+    uniqueID: 2469972447
+    locked: 0
+  - name: UI
+    uniqueID: 4040276025
+    locked: 0

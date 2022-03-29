@@ -1,0 +1,1916 @@
+fileFormatVersion: 2
+guid: acbafcb935617c64eac43b11d2c7f851
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8941770858792763656
+    second: skeldO2_0
+  - first:
+      213: -7554867134399596146
+    second: skeldO2_1
+  - first:
+      213: 8867538819122675017
+    second: skeldO2_2
+  - first:
+      213: -7160037035757300257
+    second: skeldO2_3
+  - first:
+      213: -2454298149918843785
+    second: skeldO2_4
+  - first:
+      213: 4663059967867143823
+    second: skeldO2_5
+  - first:
+      213: 4607485118060330571
+    second: skeldO2_6
+  - first:
+      213: 8220057521047761860
+    second: skeldO2_7
+  - first:
+      213: 4028836377073946929
+    second: skeldO2_8
+  - first:
+      213: -4281152566568507973
+    second: skeldO2_9
+  - first:
+      213: -2525433052594136359
+    second: skeldO2_10
+  - first:
+      213: -227424062380182990
+    second: skeldO2_11
+  - first:
+      213: -3055277161215349692
+    second: skeldO2_12
+  - first:
+      213: 2628348867009006864
+    second: skeldO2_13
+  - first:
+      213: -185981365969225499
+    second: skeldO2_14
+  - first:
+      213: 9144868199408237502
+    second: skeldO2_15
+  - first:
+      213: 8242547185617599266
+    second: skeldO2_16
+  - first:
+      213: -4348827425913894025
+    second: skeldO2_17
+  - first:
+      213: 8000694516743408242
+    second: skeldO2_18
+  - first:
+      213: -5467491674186513911
+    second: skeldO2_19
+  - first:
+      213: 3683516479816388068
+    second: skeldO2_20
+  - first:
+      213: -7054440517733741247
+    second: skeldO2_21
+  - first:
+      213: 8519335599527047417
+    second: skeldO2_22
+  - first:
+      213: 728012523872221717
+    second: skeldO2_23
+  - first:
+      213: 2914445599115472973
+    second: skeldO2_24
+  - first:
+      213: 8888916185467035300
+    second: skeldO2_25
+  - first:
+      213: -8660106091905085065
+    second: skeldO2_26
+  - first:
+      213: -5506006134987224778
+    second: skeldO2_27
+  - first:
+      213: -4502944973083500951
+    second: skeldO2_28
+  - first:
+      213: -9155059536998437935
+    second: skeldO2_29
+  - first:
+      213: 7329313748457920450
+    second: skeldO2_30
+  - first:
+      213: 6404236032320337979
+    second: skeldO2_31
+  - first:
+      213: -3460596592141535461
+    second: skeldO2_32
+  - first:
+      213: 9130744538437836145
+    second: skeldO2_33
+  - first:
+      213: -8938976939864302570
+    second: skeldO2_34
+  - first:
+      213: -7474003616890172187
+    second: skeldO2_35
+  - first:
+      213: -3087745616842249538
+    second: skeldO2_36
+  - first:
+      213: 7930682540531473153
+    second: skeldO2_37
+  - first:
+      213: -6766611149958945735
+    second: skeldO2_38
+  - first:
+      213: -6819849755737971332
+    second: skeldO2_39
+  - first:
+      213: 3993904750314038437
+    second: skeldO2_40
+  - first:
+      213: 1589237918722108893
+    second: skeldO2_41
+  - first:
+      213: 884395593078405034
+    second: skeldO2_42
+  - first:
+      213: 1265949977220407614
+    second: skeldO2_43
+  - first:
+      213: -1862854098487963728
+    second: skeldO2_44
+  - first:
+      213: 7625298804135538817
+    second: skeldO2_45
+  - first:
+      213: -6396484903338372398
+    second: skeldO2_46
+  - first:
+      213: -413406190029398149
+    second: skeldO2_47
+  - first:
+      213: 2276360096036988165
+    second: skeldO2_48
+  - first:
+      213: 1231337240080678219
+    second: skeldO2_49
+  - first:
+      213: 7020433532848669740
+    second: skeldO2_50
+  - first:
+      213: 7835409497569658412
+    second: skeldO2_51
+  - first:
+      213: 773442140571866264
+    second: skeldO2_52
+  - first:
+      213: 352074664771458575
+    second: skeldO2_53
+  - first:
+      213: 6176766163247613098
+    second: skeldO2_54
+  - first:
+      213: -6618813300470350091
+    second: skeldO2_55
+  - first:
+      213: 6909821818897209969
+    second: skeldO2_56
+  - first:
+      213: 7533524422183806123
+    second: skeldO2_57
+  - first:
+      213: 8310188144019485620
+    second: skeldO2_58
+  - first:
+      213: 5695271601900471140
+    second: skeldO2_59
+  - first:
+      213: 5048416777908365434
+    second: skeldO2_60
+  - first:
+      213: -2435984802841271887
+    second: skeldO2_61
+  - first:
+      213: -8099918635416788829
+    second: skeldO2_62
+  - first:
+      213: -8467936171340630660
+    second: skeldO2_63
+  - first:
+      213: 3840810716923667321
+    second: skeldO2_64
+  - first:
+      213: 5343864961277692797
+    second: skeldO2_65
+  - first:
+      213: -1215423912146492192
+    second: skeldO2_66
+  - first:
+      213: 6087845494392440170
+    second: skeldO2_67
+  - first:
+      213: 1969551638158538246
+    second: skeldO2_68
+  - first:
+      213: -222665350301662704
+    second: skeldO2_69
+  - first:
+      213: -4539266854004516794
+    second: skeldO2_70
+  - first:
+      213: -1115348728001710674
+    second: skeldO2_71
+  - first:
+      213: 5535993343091153894
+    second: skeldO2_72
+  - first:
+      213: -3791577313459454759
+    second: skeldO2_73
+  - first:
+      213: 263153446513957210
+    second: skeldO2_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeldO2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 891
+        width: 357
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8014845783d871c70800000000000000
+      internalID: 8941770858792763656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 838
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89b6d06e58b72790800000000000000
+      internalID: -7554867134399596146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 860
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d3bc1e293df0b70800000000000000
+      internalID: 8867538819122675017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 842
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd59b01604072ac90800000000000000
+      internalID: -7160037035757300257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 697
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c503906d490fdd0800000000000000
+      internalID: -2454298149918843785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 697
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86c017b55486b040800000000000000
+      internalID: 4663059967867143823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 697
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e72e9ad4311ff30800000000000000
+      internalID: 4607485118060330571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 697
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3745f73c2831270800000000000000
+      internalID: 8220057521047761860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 697
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1311aa9d65d49e730800000000000000
+      internalID: 4028836377073946929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 697
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5ae685c6a4694c0800000000000000
+      internalID: -4281152566568507973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 697
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da981cd40cd3fcd0800000000000000
+      internalID: -2525433052594136359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 615
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232f37c250708dcf0800000000000000
+      internalID: -227424062380182990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 625
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c25630c997995d0800000000000000
+      internalID: -3055277161215349692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 624
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d4fd37e55c97420800000000000000
+      internalID: 2628348867009006864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 615
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8ff8adee24b6df0800000000000000
+      internalID: -185981365969225499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 625
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb7e7ffc2919ee70800000000000000
+      internalID: 9144868199408237502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_16
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 624
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bf1239ef8636270800000000000000
+      internalID: 8242547185617599266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_17
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 615
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b0de84f7cd5a3c0800000000000000
+      internalID: -4348827425913894025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_18
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 625
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a08e2064d280f60800000000000000
+      internalID: 8000694516743408242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_19
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 624
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90205b35a419f14b0800000000000000
+      internalID: -5467491674186513911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_20
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 615
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edc0c7e8ba7e1330800000000000000
+      internalID: 3683516479816388068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_21
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 625
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d8b53a9b7991e90800000000000000
+      internalID: -7054440517733741247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_22
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 624
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f036242792ca3670800000000000000
+      internalID: 8519335599527047417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_23
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 615
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a7075888b6a1a00800000000000000
+      internalID: 728012523872221717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_24
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 625
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d407a7cb4d0327820800000000000000
+      internalID: 2914445599115472973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_25
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 624
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae9bf8dc26cb5b70800000000000000
+      internalID: 8888916185467035300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 511
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7711dc2846f11d780800000000000000
+      internalID: -8660106091905085065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 511
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63907f0a79cb693b0800000000000000
+      internalID: -5506006134987224778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_28
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 511
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e1a3497635281c0800000000000000
+      internalID: -4502944973083500951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_29
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 511
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbe7af4bd1b2f080800000000000000
+      internalID: -9155059536998437935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_30
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 511
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c798389504f6b560800000000000000
+      internalID: 7329313748457920450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 454
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f5348dba60e850800000000000000
+      internalID: 6404236032320337979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 464
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17f9760cbd79ffc0800000000000000
+      internalID: -3460596592141535461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_33
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 463
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ddc6ce7cbe6be70800000000000000
+      internalID: 9130744538437836145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_34
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 454
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cdafb75df52f380800000000000000
+      internalID: -8938976939864302570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 464
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecc6453f41074890800000000000000
+      internalID: -7474003616890172187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_36
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 463
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba295798bf1625d0800000000000000
+      internalID: -3087745616842249538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_37
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 454
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b55c680c17f0e60800000000000000
+      internalID: 7930682540531473153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_38
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 464
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934ef79920b2812a0800000000000000
+      internalID: -6766611149958945735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_39
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 463
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7524bfb7c60b51a0800000000000000
+      internalID: -6819849755737971332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_40
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 454
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4a635b5333d6730800000000000000
+      internalID: 3993904750314038437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_41
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 464
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd2309877b1e0610800000000000000
+      internalID: 1589237918722108893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_42
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 463
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7fb5e2b11064c00800000000000000
+      internalID: 884395593078405034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_43
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 454
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31e2a70cce819110800000000000000
+      internalID: 1265949977220407614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_44
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 464
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf8e373110d526e0800000000000000
+      internalID: -1862854098487963728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_45
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 463
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180b5be9cd082d960800000000000000
+      internalID: 7625298804135538817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 350
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d21e55dede1b37a0800000000000000
+      internalID: -6396484903338372398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 350
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f995fa249434af0800000000000000
+      internalID: -413406190029398149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_48
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 350
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505a8295271479f10800000000000000
+      internalID: 2276360096036988165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_49
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 350
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4df7b922b6961110800000000000000
+      internalID: 1231337240080678219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_50
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 350
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c248fae2a179d6160800000000000000
+      internalID: 7020433532848669740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 293
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c268c5c9c67fcbc60800000000000000
+      internalID: 7835409497569658412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_52
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 303
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8949a1b6781dbba00800000000000000
+      internalID: 773442140571866264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_53
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 302
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f061e10da02d2e400800000000000000
+      internalID: 352074664771458575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_54
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 293
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4c60d791848b550800000000000000
+      internalID: 6176766163247613098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_55
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 303
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe75d60f504524a0800000000000000
+      internalID: -6618813300470350091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_56
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 302
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a9c90a55e94ef50800000000000000
+      internalID: 6909821818897209969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_57
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 293
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4eef23c847c8860800000000000000
+      internalID: 7533524422183806123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_58
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 303
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3b1f47618b35370800000000000000
+      internalID: 8310188144019485620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_59
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 302
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463c5aad85ba90f40800000000000000
+      internalID: 5695271601900471140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_60
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 293
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78a955df449f0640800000000000000
+      internalID: 5048416777908365434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_61
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 303
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1656c6ab4a13ed0800000000000000
+      internalID: -2435984802841271887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_62
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 302
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a06a629aee479f80800000000000000
+      internalID: -8099918635416788829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_63
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 293
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c757f8ecae8db7a80800000000000000
+      internalID: -8467936171340630660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_64
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 303
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973afbf5ffc4d4530800000000000000
+      internalID: 3840810716923667321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_65
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 302
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b0d988ed8392a40800000000000000
+      internalID: 5343864961277692797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 189
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e42ef83462f12fe0800000000000000
+      internalID: -1215423912146492192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 189
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6549bce83f5c7450800000000000000
+      internalID: 6087845494392440170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_68
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 189
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6067a3f97c0455b10800000000000000
+      internalID: 1969551638158538246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_69
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 189
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0124b7b2b0fe8ecf0800000000000000
+      internalID: -222665350301662704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_70
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 189
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6481b5aa8d84101c0800000000000000
+      internalID: -4539266854004516794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_71
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 107
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea536c2cd3c7580f0800000000000000
+      internalID: -1115348728001710674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_72
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 117
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb10e55d9cc3dc40800000000000000
+      internalID: 5535993343091153894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_73
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 116
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcb1d4a58c916bc0800000000000000
+      internalID: -3791577313459454759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldO2_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5952e45aa8e6a300800000000000000
+      internalID: 263153446513957210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

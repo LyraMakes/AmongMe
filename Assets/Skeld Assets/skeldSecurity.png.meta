@@ -1,0 +1,1844 @@
+fileFormatVersion: 2
+guid: 59fdc0c7d381f574d9acb39aa0af5a06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2248381283851886814
+    second: skeldSecurity_0
+  - first:
+      213: 2788217495051881253
+    second: skeldSecurity_1
+  - first:
+      213: -7804981486252388098
+    second: skeldSecurity_2
+  - first:
+      213: 5504592960123727664
+    second: skeldSecurity_3
+  - first:
+      213: -952953149693443145
+    second: skeldSecurity_4
+  - first:
+      213: 2540712244140693288
+    second: skeldSecurity_5
+  - first:
+      213: -4320954357642578437
+    second: skeldSecurity_6
+  - first:
+      213: 7914897790189083985
+    second: skeldSecurity_7
+  - first:
+      213: -4995864994743136975
+    second: skeldSecurity_8
+  - first:
+      213: -7159274239852656892
+    second: skeldSecurity_9
+  - first:
+      213: 6516391368251131501
+    second: skeldSecurity_10
+  - first:
+      213: 8916141077610906184
+    second: skeldSecurity_11
+  - first:
+      213: -3639989618908667626
+    second: skeldSecurity_12
+  - first:
+      213: 317881468567076479
+    second: skeldSecurity_13
+  - first:
+      213: 6110136812118063066
+    second: skeldSecurity_14
+  - first:
+      213: 4090410596430402191
+    second: skeldSecurity_15
+  - first:
+      213: 9183032987910931599
+    second: skeldSecurity_16
+  - first:
+      213: -8137226792526215443
+    second: skeldSecurity_17
+  - first:
+      213: -1443208346073021798
+    second: skeldSecurity_18
+  - first:
+      213: -2560242668176879034
+    second: skeldSecurity_19
+  - first:
+      213: -8036800812111089166
+    second: skeldSecurity_20
+  - first:
+      213: -611194770389279656
+    second: skeldSecurity_21
+  - first:
+      213: -5665788308971066939
+    second: skeldSecurity_22
+  - first:
+      213: 7875407834005691016
+    second: skeldSecurity_23
+  - first:
+      213: -1001106611314210825
+    second: skeldSecurity_24
+  - first:
+      213: 5107097196109003381
+    second: skeldSecurity_25
+  - first:
+      213: -3373939701821067951
+    second: skeldSecurity_26
+  - first:
+      213: -377332052440174270
+    second: skeldSecurity_27
+  - first:
+      213: 8031789485517192258
+    second: skeldSecurity_28
+  - first:
+      213: 4484175972287869097
+    second: skeldSecurity_29
+  - first:
+      213: 5210117681444324228
+    second: skeldSecurity_30
+  - first:
+      213: -6617025691979228723
+    second: skeldSecurity_31
+  - first:
+      213: 1163180727692211215
+    second: skeldSecurity_32
+  - first:
+      213: -1169811063766317965
+    second: skeldSecurity_33
+  - first:
+      213: -3793791722835347723
+    second: skeldSecurity_34
+  - first:
+      213: -866626039718020684
+    second: skeldSecurity_35
+  - first:
+      213: -6968911136662336387
+    second: skeldSecurity_36
+  - first:
+      213: -6755399293937937368
+    second: skeldSecurity_37
+  - first:
+      213: -4815507256206148794
+    second: skeldSecurity_38
+  - first:
+      213: 2034404315793318185
+    second: skeldSecurity_39
+  - first:
+      213: -2580238203923694517
+    second: skeldSecurity_40
+  - first:
+      213: -6243670265220268221
+    second: skeldSecurity_41
+  - first:
+      213: 1664757659224841111
+    second: skeldSecurity_42
+  - first:
+      213: 3762101124208395262
+    second: skeldSecurity_43
+  - first:
+      213: 6662709123059136453
+    second: skeldSecurity_44
+  - first:
+      213: 7555728880062780168
+    second: skeldSecurity_45
+  - first:
+      213: 621862014795358356
+    second: skeldSecurity_46
+  - first:
+      213: -8287816998677096742
+    second: skeldSecurity_47
+  - first:
+      213: -141283302526152508
+    second: skeldSecurity_48
+  - first:
+      213: -7792244439319046464
+    second: skeldSecurity_49
+  - first:
+      213: -9095018687578678094
+    second: skeldSecurity_50
+  - first:
+      213: 3198932723890832987
+    second: skeldSecurity_51
+  - first:
+      213: 1283664768644757845
+    second: skeldSecurity_52
+  - first:
+      213: -340452778851855376
+    second: skeldSecurity_53
+  - first:
+      213: 849953370307167008
+    second: skeldSecurity_54
+  - first:
+      213: -9218147176949933462
+    second: skeldSecurity_55
+  - first:
+      213: 2475033149833636923
+    second: skeldSecurity_56
+  - first:
+      213: 3189832687305096799
+    second: skeldSecurity_57
+  - first:
+      213: 2547590887796077230
+    second: skeldSecurity_58
+  - first:
+      213: -5479140806190053079
+    second: skeldSecurity_59
+  - first:
+      213: 3567651517964654541
+    second: skeldSecurity_60
+  - first:
+      213: 2222238185583851038
+    second: skeldSecurity_61
+  - first:
+      213: -3010738207019025464
+    second: skeldSecurity_62
+  - first:
+      213: 4676518242994347465
+    second: skeldSecurity_63
+  - first:
+      213: -5479964902580331760
+    second: skeldSecurity_64
+  - first:
+      213: 4007456753392128907
+    second: skeldSecurity_65
+  - first:
+      213: -5822895148387601013
+    second: skeldSecurity_66
+  - first:
+      213: -3192908197701602709
+    second: skeldSecurity_67
+  - first:
+      213: 5218635420416141458
+    second: skeldSecurity_68
+  - first:
+      213: 4316765850440734359
+    second: skeldSecurity_69
+  - first:
+      213: -2103953658358080729
+    second: skeldSecurity_70
+  - first:
+      213: -5102414261800367939
+    second: skeldSecurity_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeldSecurity_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 591
+        width: 262
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f1f5082252cc0e0800000000000000
+      internalID: -2248381283851886814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 508
+        width: 142
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bc8150a0db1b620800000000000000
+      internalID: 2788217495051881253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 508
+        width: 142
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef01d69d0b22fa390800000000000000
+      internalID: -7804981486252388098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 529
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f6a45f12e346c40800000000000000
+      internalID: 5504592960123727664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_4
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 547
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3cee8c82e66c2f0800000000000000
+      internalID: -952953149693443145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_5
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 541
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827dd74235c624320800000000000000
+      internalID: 2540712244140693288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5b906b7e2e804c0800000000000000
+      internalID: -4320954357642578437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d9eb1fa9d57dd60800000000000000
+      internalID: 7914897790189083985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dc68aa14f1baab0800000000000000
+      internalID: -4995864994743136975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4074af3a20625ac90800000000000000
+      internalID: -7159274239852656892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c7029c6fde6a50800000000000000
+      internalID: 6516391368251131501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8424442021f7cbb70800000000000000
+      internalID: 8916141077610906184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611e6d22ab82c7dc0800000000000000
+      internalID: -3639989618908667626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ebe9ee287596400800000000000000
+      internalID: 317881468567076479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_14
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7b557ce019bc450800000000000000
+      internalID: 6110136812118063066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f825ab9f3ce04c830800000000000000
+      internalID: 4090410596430402191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_16
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84002549dfa07f70800000000000000
+      internalID: 9183032987910931599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_17
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de60fa65853c21f80800000000000000
+      internalID: -8137226792526215443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_18
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92407bd7a1b8fbe0800000000000000
+      internalID: -1443208346073021798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_19
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642d488abd0387cd0800000000000000
+      internalID: -2560242668176879034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_20
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f13c8ffd3c877090800000000000000
+      internalID: -8036800812111089166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_21
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cde5638999487f0800000000000000
+      internalID: -611194770389279656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_22
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9e7373d831f51b0800000000000000
+      internalID: -5665788308971066939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88adc3703b11b4d60800000000000000
+      internalID: 7875407834005691016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7425257da5b12f0800000000000000
+      internalID: -1001106611314210825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a787f57dd00e640800000000000000
+      internalID: 5107097196109003381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d2e5397bb5d21d0800000000000000
+      internalID: -3373939701821067951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2413feb5f7273caf0800000000000000
+      internalID: -377332052440174270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_28
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c38fa9bf5a67f60800000000000000
+      internalID: 8031789485517192258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_29
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a07f82e94efa3e30800000000000000
+      internalID: 4484175972287869097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_30
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48388784d6e0e4840800000000000000
+      internalID: 5210117681444324228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_31
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9d1ff013a9b24a0800000000000000
+      internalID: -6617025691979228723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_32
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04bca385b2742010800000000000000
+      internalID: 1163180727692211215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_33
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37403e1190ff3cfe0800000000000000
+      internalID: -1169811063766317965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_34
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6f498478eb95bc0800000000000000
+      internalID: -3793791722835347723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_35
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9f08d553029f3f0800000000000000
+      internalID: -866626039718020684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_36
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c4afb7e34794f90800000000000000
+      internalID: -6968911136662336387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_37
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82497e042200042a0800000000000000
+      internalID: -6755399293937937368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_38
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b34840aa1eb2db0800000000000000
+      internalID: -4815507256206148794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_39
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921e16c42f7ab3c10800000000000000
+      internalID: 2034404315793318185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c7c333607213cd0800000000000000
+      internalID: -2580238203923694517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f70e269f60a59a0800000000000000
+      internalID: -6243670265220268221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b153355486a1710800000000000000
+      internalID: 1664757659224841111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_43
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef30a8d3a0ba53430800000000000000
+      internalID: 3762101124208395262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_44
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b1b995a2b67c50800000000000000
+      internalID: 6662709123059136453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_45
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8035d4b62675bd860800000000000000
+      internalID: 7555728880062780168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_46
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490af2b253c41a800800000000000000
+      internalID: 621862014795358356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_47
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad65866b952cbfc80800000000000000
+      internalID: -8287816998677096742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_48
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c01c3cb59f0a0ef0800000000000000
+      internalID: -141283302526152508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_49
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6106fa7f26cd390800000000000000
+      internalID: -7792244439319046464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_50
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc555de0b008c180800000000000000
+      internalID: -9095018687578678094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_51
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56c2eb1d54e46c20800000000000000
+      internalID: 3198932723890832987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_52
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55931c15e4e70d110800000000000000
+      internalID: 1283664768644757845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_53
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f39dbd5008764bf0800000000000000
+      internalID: -340452778851855376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_54
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0230ec84614abcb00800000000000000
+      internalID: 849953370307167008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_55
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a11ae7bff821080800000000000000
+      internalID: -9218147176949933462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_56
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c66275985195220800000000000000
+      internalID: 2475033149833636923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_57
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5effbbbdef844c20800000000000000
+      internalID: 3189832687305096799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_58
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea27b1c2a6cda5320800000000000000
+      internalID: 2547590887796077230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_59
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929c1bc677e26f3b0800000000000000
+      internalID: -5479140806190053079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_60
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc79aa24728d28130800000000000000
+      internalID: 3567651517964654541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_61
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b80a1bd9f6de10800000000000000
+      internalID: 2222238185583851038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_62
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb3fe26d85b736d0800000000000000
+      internalID: -3010738207019025464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_63
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cddf43909456e040800000000000000
+      internalID: 4676518242994347465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_64
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b571884f043f3b0800000000000000
+      internalID: -5479964902580331760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_65
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b839dae4fa85d9730800000000000000
+      internalID: 4007456753392128907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_66
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85f20ca6bbe03fa0800000000000000
+      internalID: -5822895148387601013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_67
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62309339e280b3d0800000000000000
+      internalID: -3192908197701602709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_68
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298ec2ee3415c6840800000000000000
+      internalID: 5218635420416141458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_69
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7969e067bab38eb30800000000000000
+      internalID: 4316765850440734359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_70
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bdea18b414dc2e0800000000000000
+      internalID: -2103953658358080729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldSecurity_71
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8808c33459039b0800000000000000
+      internalID: -5102414261800367939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4436 @@
+fileFormatVersion: 2
+guid: 971de891c2e3b804d9cce1f6f549b577
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6081651757696651081
+    second: skeldWeapons_0
+  - first:
+      213: -1272935270775759927
+    second: skeldWeapons_1
+  - first:
+      213: 3362678444898635462
+    second: skeldWeapons_2
+  - first:
+      213: -6436927350280753902
+    second: skeldWeapons_3
+  - first:
+      213: 2194990633305393828
+    second: skeldWeapons_4
+  - first:
+      213: 2103779302177746686
+    second: skeldWeapons_5
+  - first:
+      213: -5257508313841909271
+    second: skeldWeapons_6
+  - first:
+      213: 5465989988221914013
+    second: skeldWeapons_7
+  - first:
+      213: 8493308147086049146
+    second: skeldWeapons_8
+  - first:
+      213: -7606006698378220981
+    second: skeldWeapons_9
+  - first:
+      213: -5467070306324384889
+    second: skeldWeapons_10
+  - first:
+      213: 2766952410716195549
+    second: skeldWeapons_11
+  - first:
+      213: -5482278487944038493
+    second: skeldWeapons_12
+  - first:
+      213: -1942665555605281586
+    second: skeldWeapons_13
+  - first:
+      213: -7441028062714987750
+    second: skeldWeapons_14
+  - first:
+      213: 5557651576829094364
+    second: skeldWeapons_15
+  - first:
+      213: 6384924053846536056
+    second: skeldWeapons_16
+  - first:
+      213: 4171019516346064140
+    second: skeldWeapons_17
+  - first:
+      213: -5942952464251872860
+    second: skeldWeapons_18
+  - first:
+      213: -3116103654011062930
+    second: skeldWeapons_19
+  - first:
+      213: -8021151870763911255
+    second: skeldWeapons_20
+  - first:
+      213: 8483499517620198883
+    second: skeldWeapons_21
+  - first:
+      213: 679628673197066247
+    second: skeldWeapons_22
+  - first:
+      213: 7251731613873454267
+    second: skeldWeapons_23
+  - first:
+      213: -3626370906820984019
+    second: skeldWeapons_24
+  - first:
+      213: 8348473923221885100
+    second: skeldWeapons_25
+  - first:
+      213: -5496238500996186528
+    second: skeldWeapons_26
+  - first:
+      213: 4772015182630106257
+    second: skeldWeapons_27
+  - first:
+      213: 7256559593959605774
+    second: skeldWeapons_28
+  - first:
+      213: -3501642407831252984
+    second: skeldWeapons_29
+  - first:
+      213: -3795678654715970400
+    second: skeldWeapons_30
+  - first:
+      213: 5680324597357255349
+    second: skeldWeapons_31
+  - first:
+      213: 5635541695735306355
+    second: skeldWeapons_32
+  - first:
+      213: 5127713330179329351
+    second: skeldWeapons_33
+  - first:
+      213: -8612955816212487705
+    second: skeldWeapons_34
+  - first:
+      213: -8911438090666724403
+    second: skeldWeapons_35
+  - first:
+      213: -1064804534959700342
+    second: skeldWeapons_36
+  - first:
+      213: -2797848727315567586
+    second: skeldWeapons_37
+  - first:
+      213: -6579919442517105207
+    second: skeldWeapons_38
+  - first:
+      213: -2551321677192187331
+    second: skeldWeapons_39
+  - first:
+      213: -8637702062739223628
+    second: skeldWeapons_40
+  - first:
+      213: -7534874581075507975
+    second: skeldWeapons_41
+  - first:
+      213: -3257505734288223558
+    second: skeldWeapons_42
+  - first:
+      213: -3655403706827975658
+    second: skeldWeapons_43
+  - first:
+      213: -5830685912373374782
+    second: skeldWeapons_44
+  - first:
+      213: 4510716295009078404
+    second: skeldWeapons_45
+  - first:
+      213: -7797381163504742602
+    second: skeldWeapons_46
+  - first:
+      213: 1591598723641082083
+    second: skeldWeapons_47
+  - first:
+      213: 8045465938317724543
+    second: skeldWeapons_48
+  - first:
+      213: -3798184728338939673
+    second: skeldWeapons_49
+  - first:
+      213: -771961728797596269
+    second: skeldWeapons_50
+  - first:
+      213: 7918887851218755430
+    second: skeldWeapons_51
+  - first:
+      213: 7723290510085716952
+    second: skeldWeapons_52
+  - first:
+      213: 5922511166561934042
+    second: skeldWeapons_53
+  - first:
+      213: -1062192479555466668
+    second: skeldWeapons_54
+  - first:
+      213: 1798081964255931943
+    second: skeldWeapons_55
+  - first:
+      213: 8288690375063964338
+    second: skeldWeapons_56
+  - first:
+      213: -2373697932947072626
+    second: skeldWeapons_57
+  - first:
+      213: 1284514303699120915
+    second: skeldWeapons_58
+  - first:
+      213: 5722780641396083389
+    second: skeldWeapons_59
+  - first:
+      213: -5236690928968352166
+    second: skeldWeapons_60
+  - first:
+      213: 4616478332017589996
+    second: skeldWeapons_61
+  - first:
+      213: -5749234038837623773
+    second: skeldWeapons_62
+  - first:
+      213: 7446093339194882863
+    second: skeldWeapons_63
+  - first:
+      213: 3547042011382928166
+    second: skeldWeapons_64
+  - first:
+      213: 3538964551263228381
+    second: skeldWeapons_65
+  - first:
+      213: -5708747122446702026
+    second: skeldWeapons_66
+  - first:
+      213: -405545094792460277
+    second: skeldWeapons_67
+  - first:
+      213: -4194705685917789888
+    second: skeldWeapons_68
+  - first:
+      213: 4015467959553547437
+    second: skeldWeapons_69
+  - first:
+      213: 4608332055248112438
+    second: skeldWeapons_70
+  - first:
+      213: -6181443300732533632
+    second: skeldWeapons_71
+  - first:
+      213: 3570116640172118741
+    second: skeldWeapons_72
+  - first:
+      213: 1143337152036811756
+    second: skeldWeapons_73
+  - first:
+      213: 6699262669388935145
+    second: skeldWeapons_74
+  - first:
+      213: 3023321646201342615
+    second: skeldWeapons_75
+  - first:
+      213: -8397714872666287317
+    second: skeldWeapons_76
+  - first:
+      213: -8266752252266956512
+    second: skeldWeapons_77
+  - first:
+      213: 8298306951468288968
+    second: skeldWeapons_78
+  - first:
+      213: 227721490772569867
+    second: skeldWeapons_79
+  - first:
+      213: 553977244456159260
+    second: skeldWeapons_80
+  - first:
+      213: 7864698006820926563
+    second: skeldWeapons_81
+  - first:
+      213: -6782678426594667624
+    second: skeldWeapons_82
+  - first:
+      213: -5451204470204236792
+    second: skeldWeapons_83
+  - first:
+      213: 3861180838576307894
+    second: skeldWeapons_84
+  - first:
+      213: -594108667444270082
+    second: skeldWeapons_85
+  - first:
+      213: -5801249136971898560
+    second: skeldWeapons_86
+  - first:
+      213: -6060676251974873708
+    second: skeldWeapons_87
+  - first:
+      213: -7386307576671741612
+    second: skeldWeapons_88
+  - first:
+      213: -7091791623610900630
+    second: skeldWeapons_89
+  - first:
+      213: 1547469024934471017
+    second: skeldWeapons_90
+  - first:
+      213: -6855668409579830412
+    second: skeldWeapons_91
+  - first:
+      213: 468669978937406688
+    second: skeldWeapons_92
+  - first:
+      213: -6191176568953361453
+    second: skeldWeapons_93
+  - first:
+      213: 7295215926608931510
+    second: skeldWeapons_94
+  - first:
+      213: 797549337967203328
+    second: skeldWeapons_95
+  - first:
+      213: -4807868388576880770
+    second: skeldWeapons_96
+  - first:
+      213: -8768252765445994971
+    second: skeldWeapons_97
+  - first:
+      213: 6078180126663685372
+    second: skeldWeapons_98
+  - first:
+      213: 486065641731924369
+    second: skeldWeapons_99
+  - first:
+      213: 3441866518020502270
+    second: skeldWeapons_100
+  - first:
+      213: -5921891102315052076
+    second: skeldWeapons_101
+  - first:
+      213: -2221977334390958955
+    second: skeldWeapons_102
+  - first:
+      213: 8633997180515114561
+    second: skeldWeapons_103
+  - first:
+      213: -8729005174605642867
+    second: skeldWeapons_104
+  - first:
+      213: -631983937984310615
+    second: skeldWeapons_105
+  - first:
+      213: -7204244826246227015
+    second: skeldWeapons_106
+  - first:
+      213: 7912345817854526647
+    second: skeldWeapons_107
+  - first:
+      213: -6117681217986495042
+    second: skeldWeapons_108
+  - first:
+      213: -5322638137737113389
+    second: skeldWeapons_109
+  - first:
+      213: -7342704046894111234
+    second: skeldWeapons_110
+  - first:
+      213: -706514412392395723
+    second: skeldWeapons_111
+  - first:
+      213: 3758656542764059123
+    second: skeldWeapons_112
+  - first:
+      213: 5594019067329786927
+    second: skeldWeapons_113
+  - first:
+      213: -2887954871832666753
+    second: skeldWeapons_114
+  - first:
+      213: -1647537801843760897
+    second: skeldWeapons_115
+  - first:
+      213: -8916700443757248121
+    second: skeldWeapons_116
+  - first:
+      213: 6200058895889878006
+    second: skeldWeapons_117
+  - first:
+      213: -7731738153839173371
+    second: skeldWeapons_118
+  - first:
+      213: 1079929159179346538
+    second: skeldWeapons_119
+  - first:
+      213: 7554747079231785799
+    second: skeldWeapons_120
+  - first:
+      213: 4464946626161766780
+    second: skeldWeapons_121
+  - first:
+      213: -7648101810307735512
+    second: skeldWeapons_122
+  - first:
+      213: -6188531976940999995
+    second: skeldWeapons_123
+  - first:
+      213: -7276871977897110037
+    second: skeldWeapons_124
+  - first:
+      213: -4130075858016915477
+    second: skeldWeapons_125
+  - first:
+      213: -2192501916999900512
+    second: skeldWeapons_126
+  - first:
+      213: -7174034235569827532
+    second: skeldWeapons_127
+  - first:
+      213: 5335370400958347074
+    second: skeldWeapons_128
+  - first:
+      213: 4726710504116958888
+    second: skeldWeapons_129
+  - first:
+      213: 9156716219990152911
+    second: skeldWeapons_130
+  - first:
+      213: -6938752005282359828
+    second: skeldWeapons_131
+  - first:
+      213: 5568417829237900288
+    second: skeldWeapons_132
+  - first:
+      213: 262299222235499893
+    second: skeldWeapons_133
+  - first:
+      213: 8952469612696492669
+    second: skeldWeapons_134
+  - first:
+      213: 5528832258020608794
+    second: skeldWeapons_135
+  - first:
+      213: 6389553810862503834
+    second: skeldWeapons_136
+  - first:
+      213: 635423394275986317
+    second: skeldWeapons_137
+  - first:
+      213: 1244584602323210255
+    second: skeldWeapons_138
+  - first:
+      213: -9217252136447232421
+    second: skeldWeapons_139
+  - first:
+      213: 1095857968327041091
+    second: skeldWeapons_140
+  - first:
+      213: -101610015786289176
+    second: skeldWeapons_141
+  - first:
+      213: 7393476958531622541
+    second: skeldWeapons_142
+  - first:
+      213: 4566747452472554471
+    second: skeldWeapons_143
+  - first:
+      213: 1219383310595193163
+    second: skeldWeapons_144
+  - first:
+      213: 3005107875651855635
+    second: skeldWeapons_145
+  - first:
+      213: 8512144412292590637
+    second: skeldWeapons_146
+  - first:
+      213: 1429523659941944110
+    second: skeldWeapons_147
+  - first:
+      213: 3547567193840358046
+    second: skeldWeapons_148
+  - first:
+      213: 4045460746407403101
+    second: skeldWeapons_149
+  - first:
+      213: -303310014431956459
+    second: skeldWeapons_150
+  - first:
+      213: -6962006523298338695
+    second: skeldWeapons_151
+  - first:
+      213: 8933757053535531706
+    second: skeldWeapons_152
+  - first:
+      213: 7734420258438474311
+    second: skeldWeapons_153
+  - first:
+      213: 5292432504941064809
+    second: skeldWeapons_154
+  - first:
+      213: -1164814778487586478
+    second: skeldWeapons_155
+  - first:
+      213: 2420720265997367536
+    second: skeldWeapons_156
+  - first:
+      213: 4760334633105876839
+    second: skeldWeapons_157
+  - first:
+      213: 7108325294732086366
+    second: skeldWeapons_158
+  - first:
+      213: 4876347632904690412
+    second: skeldWeapons_159
+  - first:
+      213: -5823320888389816372
+    second: skeldWeapons_160
+  - first:
+      213: 6673811145144639293
+    second: skeldWeapons_161
+  - first:
+      213: -7927067110442198065
+    second: skeldWeapons_162
+  - first:
+      213: 1724207628505643078
+    second: skeldWeapons_163
+  - first:
+      213: 3180745343179549134
+    second: skeldWeapons_164
+  - first:
+      213: -8935102007919543036
+    second: skeldWeapons_165
+  - first:
+      213: -1709018076258311108
+    second: skeldWeapons_166
+  - first:
+      213: 7499618063176438358
+    second: skeldWeapons_167
+  - first:
+      213: -7625134374979233241
+    second: skeldWeapons_168
+  - first:
+      213: 7594966447765574642
+    second: skeldWeapons_169
+  - first:
+      213: -8955282367044889010
+    second: skeldWeapons_170
+  - first:
+      213: 7389457678539794422
+    second: skeldWeapons_171
+  - first:
+      213: 3050436874401515284
+    second: skeldWeapons_172
+  - first:
+      213: -974191122636824735
+    second: skeldWeapons_173
+  - first:
+      213: -5772085146328444142
+    second: skeldWeapons_174
+  - first:
+      213: -8030138323883491537
+    second: skeldWeapons_175
+  - first:
+      213: -6818273012016485661
+    second: skeldWeapons_176
+  - first:
+      213: -3795889352560401001
+    second: skeldWeapons_177
+  - first:
+      213: 1830973579062960988
+    second: skeldWeapons_178
+  - first:
+      213: 2351683225161130374
+    second: skeldWeapons_179
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeldWeapons_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1459
+        width: 162
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f83293d0e566450800000000000000
+      internalID: 6081651757696651081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1236
+        width: 426
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb58539d10a55ee0800000000000000
+      internalID: -1272935270775759927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_2
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1235
+        width: 401
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cecb0aba32aaae20800000000000000
+      internalID: 3362678444898635462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_3
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1154
+        width: 406
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21de481eda07ba6a0800000000000000
+      internalID: -6436927350280753902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_4
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1371
+        width: 385
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa4a77f95c267e10800000000000000
+      internalID: 2194990633305393828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_5
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1154
+        width: 299
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeaf180120223d10800000000000000
+      internalID: 2103779302177746686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 833
+        width: 110
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e14ac54b049907b0800000000000000
+      internalID: -5257508313841909271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 967
+        width: 143
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b0fc92fe81bdb40800000000000000
+      internalID: 5465989988221914013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 953
+        width: 115
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fbef2a2ca4ed570800000000000000
+      internalID: 8493308147086049146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1104
+        width: 154
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aace7c439027690800000000000000
+      internalID: -7606006698378220981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_10
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1038
+        width: 126
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783f27da5801124b0800000000000000
+      internalID: -5467070306324384889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 745
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda462fbe80366620800000000000000
+      internalID: 2766952410716195549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 787
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a77456f2c80be3b0800000000000000
+      internalID: -5482278487944038493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 789
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4a2c848f34a05e0800000000000000
+      internalID: -1942665555605281586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 800
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bf826b6682cb890800000000000000
+      internalID: -7441028062714987750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 800
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9a946d9aeb02d40800000000000000
+      internalID: 5557651576829094364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 637
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fae53299ecb9850800000000000000
+      internalID: 6384924053846536056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 637
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d570fa62072e930800000000000000
+      internalID: 4171019516346064140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 637
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a91c3b8834668da0800000000000000
+      internalID: -5942952464251872860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 637
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65bf5b8c3061c4d0800000000000000
+      internalID: -3116103654011062930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_20
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 637
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a738a51fd42fa090800000000000000
+      internalID: -8021151870763911255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_21
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 637
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed13ff1dd17bb570800000000000000
+      internalID: 8483499517620198883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_22
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 637
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c41d6da68e6900800000000000000
+      internalID: 679628673197066247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_23
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 637
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcb5634b7353a460800000000000000
+      internalID: 7251731613873454267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_24
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 637
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23cf13afda8cadc0800000000000000
+      internalID: -3626370906820984019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_25
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 637
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca090421dccbbd370800000000000000
+      internalID: 8348473923221885100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_26
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 637
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06efb43243079b3b0800000000000000
+      internalID: -5496238500996186528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_27
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 637
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194307f768a993240800000000000000
+      internalID: 4772015182630106257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_28
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 637
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e064a69f08a74b460800000000000000
+      internalID: 7256559593959605774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_29
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 637
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80056c658caa76fc0800000000000000
+      internalID: -3501642407831252984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_30
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 637
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac3f18bf5a035bc0800000000000000
+      internalID: -3795678654715970400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_31
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 637
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba946a202194de40800000000000000
+      internalID: 5680324597357255349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_32
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 637
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378943b5057753e40800000000000000
+      internalID: 5635541695735306355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_33
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 637
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dcf532b1c492740800000000000000
+      internalID: 5127713330179329351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_34
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 637
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1258c8152a87880800000000000000
+      internalID: -8612955816212487705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_35
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 637
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3bce77546345480800000000000000
+      internalID: -8911438090666724403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_36
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 637
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a868082caed0931f0800000000000000
+      internalID: -1064804534959700342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_37
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 637
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ca319f76b0c29d0800000000000000
+      internalID: -2797848727315567586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 514
+        width: 194
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5e412012e6fa4a0800000000000000
+      internalID: -6579919442517105207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 514
+        width: 239
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32b43bb372e79cd0800000000000000
+      internalID: -2551321677192187331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_40
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 514
+        width: 355
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb05ca0db7b02880800000000000000
+      internalID: -8637702062739223628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_41
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 514
+        width: 194
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4cfdf6d7fbe6790800000000000000
+      internalID: -7534874581075507975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_42
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 514
+        width: 193
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2d3fd2bc30bc2d0800000000000000
+      internalID: -3257505734288223558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_43
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 514
+        width: 193
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6145fdf12b5654dc0800000000000000
+      internalID: -3655403706827975658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_44
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 514
+        width: 194
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c05c141e0e351fa0800000000000000
+      internalID: -5830685912373374782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_45
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 514
+        width: 194
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c059e4298499e30800000000000000
+      internalID: 4510716295009078404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_46
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 514
+        width: 193
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f4af2e4232ac390800000000000000
+      internalID: -7797381163504742602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_47
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 514
+        width: 195
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e087934b9e761610800000000000000
+      internalID: 1591598723641082083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 397
+        width: 194
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bcee9e4ac37af60800000000000000
+      internalID: 8045465938317724543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 397
+        width: 194
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e04b0cfc132a4bc0800000000000000
+      internalID: -3798184728338939673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 278
+        width: 194
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395a2dec5e07945f0800000000000000
+      internalID: -771961728797596269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 278
+        width: 237
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fdc0c6b8a85ed60800000000000000
+      internalID: 7918887851218755430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_52
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 278
+        width: 339
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbfdc69cc3ae2b60800000000000000
+      internalID: 7723290510085716952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_53
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 278
+        width: 193
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada5535f68cf03250800000000000000
+      internalID: 5922511166561934042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_54
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 278
+        width: 195
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a410d41955241f0800000000000000
+      internalID: -1062192479555466668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_55
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 278
+        width: 193
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ee284150214f810800000000000000
+      internalID: 1798081964255931943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_56
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 278
+        width: 193
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba03e21bf7570370800000000000000
+      internalID: 8288690375063964338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_57
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 278
+        width: 195
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e895c9e6e4eee0fd0800000000000000
+      internalID: -2373697932947072626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_58
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 278
+        width: 193
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f4ec14f283d110800000000000000
+      internalID: 1284514303699120915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_59
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 278
+        width: 193
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba45e93ca66b6f40800000000000000
+      internalID: 5722780641396083389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 160
+        width: 194
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eb45468598357b0800000000000000
+      internalID: -5236690928968352166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 194
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee32357596011040800000000000000
+      internalID: 4616478332017589996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_62
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 160
+        width: 193
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324cf783a1e9630b0800000000000000
+      internalID: -5749234038837623773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 94
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bfc1fd076d55760800000000000000
+      internalID: 7446093339194882863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_64
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 94
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623ddd39aef993130800000000000000
+      internalID: 3547042011382928166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_65
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 94
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd19eb6528dec1130800000000000000
+      internalID: 3538964551263228381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 94
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ae7060db476c0b0800000000000000
+      internalID: -5708747122446702026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_67
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 147
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b084e7c82e63f5af0800000000000000
+      internalID: -405545094792460277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_68
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 98
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0411f85376969c5c0800000000000000
+      internalID: -4194705685917789888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_69
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 94
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacd62895dec9b730800000000000000
+      internalID: 4015467959553547437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 94
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b0c18969514ff30800000000000000
+      internalID: 4608332055248112438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_71
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 94
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0848e94911a173aa0800000000000000
+      internalID: -6181443300732533632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_72
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 94
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d29b204b2a9b8130800000000000000
+      internalID: 3570116640172118741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_73
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 94
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce339a50513fddf00800000000000000
+      internalID: 1143337152036811756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_74
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 94
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef66f157ef88fc50800000000000000
+      internalID: 6699262669388935145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_75
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 147
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a849bd40ff4f920800000000000000
+      internalID: 3023321646201342615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_76
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 98
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2316b9f0d2557b80800000000000000
+      internalID: -8397714872666287317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_77
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 94
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029b77d20a8964d80800000000000000
+      internalID: -8266752252266956512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_78
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 94
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb0c6fb432892370800000000000000
+      internalID: 8298306951468288968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_79
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 94
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fa8354d77092300800000000000000
+      internalID: 227721490772569867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_80
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 94
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1885756e5f10b700800000000000000
+      internalID: 553977244456159260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_81
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 94
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364b8421b25052d60800000000000000
+      internalID: 7864698006820926563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_82
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 94
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8939e1d38e51fd1a0800000000000000
+      internalID: -6782678426594667624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_83
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 147
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c74738a6e6954b0800000000000000
+      internalID: -5451204470204236792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_84
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 98
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beb2e8e38ba59530800000000000000
+      internalID: 3861180838576307894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_85
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 94
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbe00f805d41c7f0800000000000000
+      internalID: -594108667444270082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_86
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 94
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041af3175a2dd7fa0800000000000000
+      internalID: -5801249136971898560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_87
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 94
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d44664f0724eba0800000000000000
+      internalID: -6060676251974873708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_88
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 94
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45954b2b4609e7990800000000000000
+      internalID: -7386307576671741612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_89
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 94
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fd49d9715e49d90800000000000000
+      internalID: -7091791623610900630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_90
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 94
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965a32c11e6b97510800000000000000
+      internalID: 1547469024934471017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_91
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 147
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473802587e5cbd0a0800000000000000
+      internalID: -6855668409579830412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_92
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 98
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4347bdcdc018600800000000000000
+      internalID: 468669978937406688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_93
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 94
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db20d976b5841aa0800000000000000
+      internalID: -6191176568953361453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_94
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 94
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba2c49cb30dd3560800000000000000
+      internalID: 7295215926608931510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_95
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 94
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0041264b5e6711b00800000000000000
+      internalID: 797549337967203328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_96
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 94
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e779b0c7c25074db0800000000000000
+      internalID: -4807868388576880770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_97
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 94
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52641c6e098e05680800000000000000
+      internalID: -8768252765445994971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_98
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 94
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4b0a22f980a5450800000000000000
+      internalID: 6078180126663685372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_99
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 147
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19124f8302adeb600800000000000000
+      internalID: 486065641731924369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_100
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 98
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef23ce2cc57f3cf20800000000000000
+      internalID: 3441866518020502270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_101
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 94
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d307fffa6731dda0800000000000000
+      internalID: -5921891102315052076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_102
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 94
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59458ac0363f921e0800000000000000
+      internalID: -2221977334390958955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_103
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 94
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ed358d0be12d770800000000000000
+      internalID: 8633997180515114561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_104
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 94
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83851dba085cd680800000000000000
+      internalID: -8729005174605642867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_105
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 94
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a251b0f4fdba37f0800000000000000
+      internalID: -631983937984310615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_106
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 94
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbd5a01081650c90800000000000000
+      internalID: -7204244826246227015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_107
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 94
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b44445999c4ecd60800000000000000
+      internalID: 7912345817854526647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_108
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 94
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdf5d85851a91ba0800000000000000
+      internalID: -6117681217986495042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_109
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 94
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d09b3470d03226b0800000000000000
+      internalID: -5322638137737113389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_110
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 94
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5ad0a9299791a90800000000000000
+      internalID: -7342704046894111234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_111
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 29
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c48ac92e4f136f0800000000000000
+      internalID: -706514412392395723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_112
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 29
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f94620263e692430800000000000000
+      internalID: 3758656542764059123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_113
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 29
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2434fe04b2f1ad40800000000000000
+      internalID: 5594019067329786927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_114
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 29
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d1e09585cebe7d0800000000000000
+      internalID: -2887954871832666753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_115
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 29
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff023172915c229e0800000000000000
+      internalID: -1647537801843760897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_116
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 31
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78108496034814480800000000000000
+      internalID: -8916700443757248121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_117
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 29
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb440c67b80b0650800000000000000
+      internalID: 6200058895889878006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 29
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e4141d1953b490800000000000000
+      internalID: -7731738153839173371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_119
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 29
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62a87b39ddacfe00800000000000000
+      internalID: 1079929159179346538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_120
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 29
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bc789117ad7d860800000000000000
+      internalID: 7554747079231785799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_121
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 29
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c717379dc4da6fd30800000000000000
+      internalID: 4464946626161766780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_122
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 29
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820e596cceb7cd590800000000000000
+      internalID: -7648101810307735512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_123
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 29
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca294984faed1aa0800000000000000
+      internalID: -6188531976940999995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_124
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 31
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5d2799d7b530b90800000000000000
+      internalID: -7276871977897110037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_125
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 29
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef2c73a3e50fa6c0800000000000000
+      internalID: -4130075858016915477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_126
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 29
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2abd37f1ba291e0800000000000000
+      internalID: -2192501916999900512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_127
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 29
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4319e565fd5b07c90800000000000000
+      internalID: -7174034235569827532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_128
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 29
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24771469c1b0b0a40800000000000000
+      internalID: 5335370400958347074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_129
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 29
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6bff90926a89140800000000000000
+      internalID: 4726710504116958888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_130
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 29
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6129143e0331f70800000000000000
+      internalID: 9156716219990152911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_131
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 29
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce59d9470d994bf90800000000000000
+      internalID: -6938752005282359828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_132
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 31
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0044da0538ef64d40800000000000000
+      internalID: 5568417829237900288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_133
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 29
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d453eb0cfd3a300800000000000000
+      internalID: 262299222235499893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_134
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 29
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ad0473eaf8d3c70800000000000000
+      internalID: 8952469612696492669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_135
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 29
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b0a0a45ab5abc40800000000000000
+      internalID: 5528832258020608794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_136
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 29
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97f3b176514ca850800000000000000
+      internalID: 6389553810862503834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_137
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 29
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b0bc1e53a71d800800000000000000
+      internalID: 635423394275986317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_138
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 29
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00556a0a17a54110800000000000000
+      internalID: 1244584602323210255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_139
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 29
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b563ad9540eb51080800000000000000
+      internalID: -9217252136447232421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_140
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 31
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3402a6e1405453f00800000000000000
+      internalID: 1095857968327041091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_141
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 29
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7bf6f9a32079ef0800000000000000
+      internalID: -101610015786289176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_142
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 29
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8610581f18ea9660800000000000000
+      internalID: 7393476958531622541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_143
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 29
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3fb83cc98506f30800000000000000
+      internalID: 4566747452472554471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_144
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 29
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49f01119ae1ce010800000000000000
+      internalID: 1219383310595193163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_145
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 29
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31525ffe0b944b920800000000000000
+      internalID: 3005107875651855635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_146
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 29
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ca6836e36312670800000000000000
+      internalID: 8512144412292590637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_147
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 29
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b1bdcd130b6d310800000000000000
+      internalID: 1429523659941944110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_148
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 31
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e921fa5219d7b3130800000000000000
+      internalID: 3547567193840358046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_149
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 29
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e56667d1d542830800000000000000
+      internalID: 4045460746407403101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_150
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 29
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512f6fc162d6acbf0800000000000000
+      internalID: -303310014431956459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_151
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 29
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978a9de04fbf16f90800000000000000
+      internalID: -6962006523298338695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_152
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 29
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab230a505b41bfb70800000000000000
+      internalID: 8933757053535531706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_153
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 29
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a6fcf0f3e265b60800000000000000
+      internalID: 7734420258438474311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_154
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9623ebe925f727940800000000000000
+      internalID: 5292432504941064809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_155
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2514f13612fb5dfe0800000000000000
+      internalID: -1164814778487586478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_156
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8bc53a140289120800000000000000
+      internalID: 2420720265997367536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_157
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767e342a02b101240800000000000000
+      internalID: 4760334633105876839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_158
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c0e6ca138d5a260800000000000000
+      internalID: 7108325294732086366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_159
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cead99c06544ca340800000000000000
+      internalID: 4876347632904690412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_160
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfa96a51886f2fa0800000000000000
+      internalID: -5823320888389816372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_161
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f936c80e32e9c50800000000000000
+      internalID: 6673811145144639293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_162
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb196366766df190800000000000000
+      internalID: -7927067110442198065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_163
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648f810f3bd9de710800000000000000
+      internalID: 1724207628505643078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_164
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9e13d8907442c20800000000000000
+      internalID: 3180745343179549134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_165
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d73126014200480800000000000000
+      internalID: -8935102007919543036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_166
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34e6e94d195848e0800000000000000
+      internalID: -1709018076258311108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_167
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6521cbec4eef31860800000000000000
+      internalID: 7499618063176438358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_168
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a1eb68fa41e2690800000000000000
+      internalID: -7625134374979233241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_169
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3d3109ebdb66960800000000000000
+      internalID: 7594966447765574642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_170
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4658f0622278b380800000000000000
+      internalID: -8955282367044889010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_171
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7a52c8b90ac8660800000000000000
+      internalID: 7389457678539794422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_172
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4178474ec24555a20800000000000000
+      internalID: 3050436874401515284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_173
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f94efd55afa72f0800000000000000
+      internalID: -974191122636824735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_174
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213d8c7242f65efa0800000000000000
+      internalID: -5772085146328444142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_175
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f7cab6db73f8090800000000000000
+      internalID: -8030138323883491537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_176
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaef1102d0a061a0800000000000000
+      internalID: -6818273012016485661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_177
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79523fdceba425bc0800000000000000
+      internalID: -3795889352560401001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_178
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c536c2de4cce86910800000000000000
+      internalID: 1830973579062960988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldWeapons_179
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68169fbfe6bd2a020800000000000000
+      internalID: 2351683225161130374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

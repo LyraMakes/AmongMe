@@ -1,0 +1,7364 @@
+fileFormatVersion: 2
+guid: 315aa113690c664498d5b6d27888cd21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9209464789699310078
+    second: skeldAdmin_8
+  - first:
+      213: -1159853464568723199
+    second: skeldAdmin_9
+  - first:
+      213: 4228514950675313707
+    second: skeldAdmin_10
+  - first:
+      213: 407913100600973855
+    second: skeldAdmin_11
+  - first:
+      213: -2079134637465680292
+    second: skeldAdmin_12
+  - first:
+      213: 2949306197659357361
+    second: skeldAdmin_13
+  - first:
+      213: -4766217920640139366
+    second: skeldAdmin_14
+  - first:
+      213: -6816669802275682525
+    second: skeldAdmin_15
+  - first:
+      213: -5403086481315233431
+    second: skeldAdmin_16
+  - first:
+      213: -8126489703501063935
+    second: skeldAdmin_17
+  - first:
+      213: -7079264414015350471
+    second: skeldAdmin_18
+  - first:
+      213: -2586126799479580133
+    second: skeldAdmin_19
+  - first:
+      213: 4148825594815653511
+    second: skeldAdmin_20
+  - first:
+      213: -1970276291285195963
+    second: skeldAdmin_21
+  - first:
+      213: -8708300509034240710
+    second: skeldAdmin_22
+  - first:
+      213: 7538957740705791362
+    second: skeldAdmin_23
+  - first:
+      213: 28647467571436706
+    second: skeldAdmin_24
+  - first:
+      213: 7266186830261759599
+    second: skeldAdmin_25
+  - first:
+      213: -4370121133718810794
+    second: skeldAdmin_26
+  - first:
+      213: -5966242680715263907
+    second: skeldAdmin_27
+  - first:
+      213: -8667004360930558935
+    second: skeldAdmin_28
+  - first:
+      213: 7310639079200285025
+    second: skeldAdmin_29
+  - first:
+      213: 4050751829038516083
+    second: skeldAdmin_30
+  - first:
+      213: -3289969472372524323
+    second: skeldAdmin_31
+  - first:
+      213: -7106984412856560951
+    second: skeldAdmin_32
+  - first:
+      213: 625685835090955104
+    second: skeldAdmin_33
+  - first:
+      213: 621456393359830437
+    second: skeldAdmin_34
+  - first:
+      213: 194820589052286122
+    second: skeldAdmin_35
+  - first:
+      213: 5094511893638941115
+    second: skeldAdmin_36
+  - first:
+      213: 7661369029677763874
+    second: skeldAdmin_37
+  - first:
+      213: 4337185422315496216
+    second: skeldAdmin_38
+  - first:
+      213: 6294301800728126244
+    second: skeldAdmin_39
+  - first:
+      213: 7304172406369263093
+    second: skeldAdmin_40
+  - first:
+      213: -5222116787509572049
+    second: skeldAdmin_41
+  - first:
+      213: 3147369997688037692
+    second: skeldAdmin_42
+  - first:
+      213: -1853310295669918799
+    second: skeldAdmin_43
+  - first:
+      213: -3410722943986668278
+    second: skeldAdmin_44
+  - first:
+      213: 5973029330289388917
+    second: skeldAdmin_45
+  - first:
+      213: 2994709386597998577
+    second: skeldAdmin_46
+  - first:
+      213: -4807233537085376573
+    second: skeldAdmin_47
+  - first:
+      213: 3594190460462308669
+    second: skeldAdmin_48
+  - first:
+      213: 5155069163880850761
+    second: skeldAdmin_49
+  - first:
+      213: 422536285514578276
+    second: skeldAdmin_50
+  - first:
+      213: 3414373391468454760
+    second: skeldAdmin_51
+  - first:
+      213: 7827974335718084227
+    second: skeldAdmin_52
+  - first:
+      213: -5921133691694699125
+    second: skeldAdmin_53
+  - first:
+      213: 7148438166497662390
+    second: skeldAdmin_54
+  - first:
+      213: -8325681254716368987
+    second: skeldAdmin_55
+  - first:
+      213: 1855187472155228641
+    second: skeldAdmin_56
+  - first:
+      213: -6735978084378927971
+    second: skeldAdmin_57
+  - first:
+      213: -1603499056017478062
+    second: skeldAdmin_58
+  - first:
+      213: -6966212931338352890
+    second: skeldAdmin_59
+  - first:
+      213: -5407049481162704092
+    second: skeldAdmin_60
+  - first:
+      213: -8797691659113329790
+    second: skeldAdmin_61
+  - first:
+      213: 4280494140373208995
+    second: skeldAdmin_62
+  - first:
+      213: 6635542378471226374
+    second: skeldAdmin_63
+  - first:
+      213: -7659520219392679973
+    second: skeldAdmin_64
+  - first:
+      213: 589559051767565580
+    second: skeldAdmin_65
+  - first:
+      213: 4198656009988645320
+    second: skeldAdmin_66
+  - first:
+      213: 332165889671894091
+    second: skeldAdmin_67
+  - first:
+      213: -5198556855616489844
+    second: skeldAdmin_68
+  - first:
+      213: 8432803786437403485
+    second: skeldAdmin_69
+  - first:
+      213: 2139827446241065839
+    second: skeldAdmin_70
+  - first:
+      213: 1355562720417798664
+    second: skeldAdmin_71
+  - first:
+      213: 2121092631519782643
+    second: skeldAdmin_72
+  - first:
+      213: -1850949462101915056
+    second: skeldAdmin_73
+  - first:
+      213: -5100925600858608194
+    second: skeldAdmin_74
+  - first:
+      213: -8781649322153097746
+    second: skeldAdmin_75
+  - first:
+      213: 1923924094528148897
+    second: skeldAdmin_76
+  - first:
+      213: 7051467366751495658
+    second: skeldAdmin_77
+  - first:
+      213: -7373800183263826790
+    second: skeldAdmin_78
+  - first:
+      213: -6408668133284389885
+    second: skeldAdmin_79
+  - first:
+      213: -2120400229451971359
+    second: skeldAdmin_80
+  - first:
+      213: -2802540959607864505
+    second: skeldAdmin_81
+  - first:
+      213: 2134006489653454049
+    second: skeldAdmin_82
+  - first:
+      213: -7292616143633626224
+    second: skeldAdmin_83
+  - first:
+      213: -9056160133229806828
+    second: skeldAdmin_84
+  - first:
+      213: 2697591504030992073
+    second: skeldAdmin_85
+  - first:
+      213: 6862326802710589602
+    second: skeldAdmin_86
+  - first:
+      213: -4308633989312415726
+    second: skeldAdmin_87
+  - first:
+      213: -2260728729179184055
+    second: skeldAdmin_88
+  - first:
+      213: -495103730246786843
+    second: skeldAdmin_89
+  - first:
+      213: 7708858011976767580
+    second: skeldAdmin_90
+  - first:
+      213: 9099906612194812205
+    second: skeldAdmin_91
+  - first:
+      213: -7033045563209362771
+    second: skeldAdmin_92
+  - first:
+      213: -133501545653228003
+    second: skeldAdmin_93
+  - first:
+      213: -5270006372645018186
+    second: skeldAdmin_94
+  - first:
+      213: -130552706608510127
+    second: skeldAdmin_95
+  - first:
+      213: -5586804383771834586
+    second: skeldAdmin_96
+  - first:
+      213: -3429625221486123783
+    second: skeldAdmin_97
+  - first:
+      213: -273803152707993945
+    second: skeldAdmin_98
+  - first:
+      213: 5683954363720956256
+    second: skeldAdmin_99
+  - first:
+      213: 6782686796368663242
+    second: skeldAdmin_100
+  - first:
+      213: -8650198413886129230
+    second: skeldAdmin_101
+  - first:
+      213: -221857419716312169
+    second: skeldAdmin_102
+  - first:
+      213: -518362809992267490
+    second: skeldAdmin_103
+  - first:
+      213: 5063260460983712364
+    second: skeldAdmin_104
+  - first:
+      213: 3514940426319989746
+    second: skeldAdmin_105
+  - first:
+      213: 2229511291047421088
+    second: skeldAdmin_106
+  - first:
+      213: 4944627193371544196
+    second: skeldAdmin_107
+  - first:
+      213: 3861813984827444781
+    second: skeldAdmin_108
+  - first:
+      213: 1050645963958459132
+    second: skeldAdmin_109
+  - first:
+      213: 6875665180988076480
+    second: skeldAdmin_110
+  - first:
+      213: 7833558446414222379
+    second: skeldAdmin_111
+  - first:
+      213: -5059725489758653972
+    second: skeldAdmin_112
+  - first:
+      213: 4677602734315733844
+    second: skeldAdmin_113
+  - first:
+      213: -3364511206249869990
+    second: skeldAdmin_114
+  - first:
+      213: -4022868427894995187
+    second: skeldAdmin_115
+  - first:
+      213: -1590142727111793271
+    second: skeldAdmin_116
+  - first:
+      213: 303508212993899764
+    second: skeldAdmin_117
+  - first:
+      213: -850274448936634845
+    second: skeldAdmin_118
+  - first:
+      213: -5306524396861180328
+    second: skeldAdmin_119
+  - first:
+      213: 2741593848672919262
+    second: skeldAdmin_120
+  - first:
+      213: -6326026631051849015
+    second: skeldAdmin_121
+  - first:
+      213: 9019508985732252181
+    second: skeldAdmin_122
+  - first:
+      213: 2553977149736582821
+    second: skeldAdmin_123
+  - first:
+      213: -1361481859100814642
+    second: skeldAdmin_124
+  - first:
+      213: -5213994043041389590
+    second: skeldAdmin_125
+  - first:
+      213: 1771560223401583094
+    second: skeldAdmin_126
+  - first:
+      213: -8391408216469020323
+    second: skeldAdmin_127
+  - first:
+      213: 6698580320058663863
+    second: skeldAdmin_128
+  - first:
+      213: -8821664461870455764
+    second: skeldAdmin_129
+  - first:
+      213: 4115910348547359901
+    second: skeldAdmin_130
+  - first:
+      213: -2640172576248040854
+    second: skeldAdmin_131
+  - first:
+      213: 4307812892838894183
+    second: skeldAdmin_132
+  - first:
+      213: 146090684370872246
+    second: skeldAdmin_133
+  - first:
+      213: -5614409964922809128
+    second: skeldAdmin_134
+  - first:
+      213: 4962193962748759335
+    second: skeldAdmin_135
+  - first:
+      213: -7517597332444613505
+    second: skeldAdmin_136
+  - first:
+      213: 5418655983422154824
+    second: skeldAdmin_137
+  - first:
+      213: 1718709968670691832
+    second: skeldAdmin_138
+  - first:
+      213: 3698525483576003712
+    second: skeldAdmin_139
+  - first:
+      213: -721907659857301543
+    second: skeldAdmin_140
+  - first:
+      213: -7599177937542266246
+    second: skeldAdmin_141
+  - first:
+      213: -5582846249644368813
+    second: skeldAdmin_142
+  - first:
+      213: -8128964586771980035
+    second: skeldAdmin_143
+  - first:
+      213: -7861065273837143452
+    second: skeldAdmin_144
+  - first:
+      213: -3287457755475882859
+    second: skeldAdmin_145
+  - first:
+      213: -213017891236913713
+    second: skeldAdmin_146
+  - first:
+      213: 8666946256086005863
+    second: skeldAdmin_147
+  - first:
+      213: -174905409495558108
+    second: skeldAdmin_148
+  - first:
+      213: -8541184888016824109
+    second: skeldAdmin_149
+  - first:
+      213: 2400341230350534525
+    second: skeldAdmin_150
+  - first:
+      213: -4511372928861636067
+    second: skeldAdmin_151
+  - first:
+      213: 7555122213694863208
+    second: skeldAdmin_152
+  - first:
+      213: -2239382726170015794
+    second: skeldAdmin_153
+  - first:
+      213: -5833281122552894030
+    second: skeldAdmin_154
+  - first:
+      213: 7427629688347798646
+    second: skeldAdmin_155
+  - first:
+      213: 1324634758670984161
+    second: skeldAdmin_156
+  - first:
+      213: -5881954072584724566
+    second: skeldAdmin_157
+  - first:
+      213: -8461955390614542841
+    second: skeldAdmin_158
+  - first:
+      213: 3050641194720134073
+    second: skeldAdmin_159
+  - first:
+      213: -6952684744567993525
+    second: skeldAdmin_160
+  - first:
+      213: 5876731578598701811
+    second: skeldAdmin_161
+  - first:
+      213: 5641278312271480363
+    second: skeldAdmin_162
+  - first:
+      213: -6320463446168361006
+    second: skeldAdmin_163
+  - first:
+      213: -1606007123953512033
+    second: skeldAdmin_164
+  - first:
+      213: 1372214971809317391
+    second: skeldAdmin_165
+  - first:
+      213: 4240328527433110041
+    second: skeldAdmin_166
+  - first:
+      213: 97773226664731807
+    second: skeldAdmin_167
+  - first:
+      213: -3996780130370410056
+    second: skeldAdmin_168
+  - first:
+      213: -6597367968668248744
+    second: skeldAdmin_169
+  - first:
+      213: -5243526581337021182
+    second: skeldAdmin_170
+  - first:
+      213: 4492776699818409078
+    second: skeldAdmin_171
+  - first:
+      213: -4889581380141565280
+    second: skeldAdmin_172
+  - first:
+      213: -1754369015261745913
+    second: skeldAdmin_173
+  - first:
+      213: 6934700300677872801
+    second: skeldAdmin_174
+  - first:
+      213: -697504301733458860
+    second: skeldAdmin_175
+  - first:
+      213: -195217434351230122
+    second: skeldAdmin_176
+  - first:
+      213: 3810836081730086852
+    second: skeldAdmin_177
+  - first:
+      213: -5553733532614255450
+    second: skeldAdmin_178
+  - first:
+      213: -6453264032947857019
+    second: skeldAdmin_179
+  - first:
+      213: 4142752579812947158
+    second: skeldAdmin_180
+  - first:
+      213: -4458371692198683073
+    second: skeldAdmin_181
+  - first:
+      213: -6213235204809432797
+    second: skeldAdmin_182
+  - first:
+      213: 568031731891453789
+    second: skeldAdmin_183
+  - first:
+      213: 7485182701271808859
+    second: skeldAdmin_184
+  - first:
+      213: 2446233339435556242
+    second: skeldAdmin_185
+  - first:
+      213: -9022913370693110626
+    second: skeldAdmin_186
+  - first:
+      213: 7037226652590222670
+    second: skeldAdmin_187
+  - first:
+      213: 8260134717558068574
+    second: skeldAdmin_188
+  - first:
+      213: 4049017330132310313
+    second: skeldAdmin_189
+  - first:
+      213: 2756148310240640565
+    second: skeldAdmin_190
+  - first:
+      213: -8601571708238373958
+    second: skeldAdmin_191
+  - first:
+      213: -4390357039592367039
+    second: skeldAdmin_192
+  - first:
+      213: 8732283685199823766
+    second: skeldAdmin_193
+  - first:
+      213: -8813867940547051352
+    second: skeldAdmin_194
+  - first:
+      213: -541050190912140678
+    second: skeldAdmin_195
+  - first:
+      213: -3661860614942966833
+    second: skeldAdmin_196
+  - first:
+      213: 5031648600459031951
+    second: skeldAdmin_197
+  - first:
+      213: 6414946879087850332
+    second: skeldAdmin_198
+  - first:
+      213: -6229221037219334645
+    second: skeldAdmin_199
+  - first:
+      213: -2228862596508636023
+    second: skeldAdmin_200
+  - first:
+      213: 4390577073192726367
+    second: skeldAdmin_201
+  - first:
+      213: -2105059596730081082
+    second: skeldAdmin_202
+  - first:
+      213: 5998749403914482758
+    second: skeldAdmin_203
+  - first:
+      213: -6928778759412035539
+    second: skeldAdmin_204
+  - first:
+      213: -8393052259022341066
+    second: skeldAdmin_205
+  - first:
+      213: 6423929328885282814
+    second: skeldAdmin_206
+  - first:
+      213: -2751473470363187206
+    second: skeldAdmin_207
+  - first:
+      213: -3218785993894323338
+    second: skeldAdmin_208
+  - first:
+      213: 6405710493711486029
+    second: skeldAdmin_209
+  - first:
+      213: -8998151882893775298
+    second: skeldAdmin_210
+  - first:
+      213: 7184760450025180499
+    second: skeldAdmin_211
+  - first:
+      213: -513202749439568688
+    second: skeldAdmin_212
+  - first:
+      213: -5348002868706537809
+    second: skeldAdmin_213
+  - first:
+      213: -3076502355021970904
+    second: skeldAdmin_214
+  - first:
+      213: 6036554773709658053
+    second: skeldAdmin_215
+  - first:
+      213: 4016689203017312291
+    second: skeldAdmin_216
+  - first:
+      213: 6972577803460290515
+    second: skeldAdmin_217
+  - first:
+      213: 4634513245485321284
+    second: skeldAdmin_218
+  - first:
+      213: -2017387383555579774
+    second: skeldAdmin_219
+  - first:
+      213: -1709484779054391914
+    second: skeldAdmin_220
+  - first:
+      213: 2604874074225221300
+    second: skeldAdmin_221
+  - first:
+      213: -9177609692261579179
+    second: skeldAdmin_222
+  - first:
+      213: -4736053681430075524
+    second: skeldAdmin_223
+  - first:
+      213: -53536819956287205
+    second: skeldAdmin_224
+  - first:
+      213: -8616771282308796135
+    second: skeldAdmin_225
+  - first:
+      213: 4785927438489896224
+    second: skeldAdmin_226
+  - first:
+      213: 4911700136697598257
+    second: skeldAdmin_227
+  - first:
+      213: -2777726445817265639
+    second: skeldAdmin_228
+  - first:
+      213: 8808041302646606194
+    second: skeldAdmin_229
+  - first:
+      213: -2524502021535920462
+    second: skeldAdmin_230
+  - first:
+      213: -343107879786843572
+    second: skeldAdmin_231
+  - first:
+      213: -5175865808376861346
+    second: skeldAdmin_232
+  - first:
+      213: -3081705158998136855
+    second: skeldAdmin_233
+  - first:
+      213: 2053656694976522140
+    second: skeldAdmin_234
+  - first:
+      213: 6015330817518274936
+    second: skeldAdmin_235
+  - first:
+      213: 1304485959843651323
+    second: skeldAdmin_236
+  - first:
+      213: -4178014089870849496
+    second: skeldAdmin_237
+  - first:
+      213: 8249674106264276420
+    second: skeldAdmin_238
+  - first:
+      213: -282796776454241049
+    second: skeldAdmin_239
+  - first:
+      213: -3575891718413637919
+    second: skeldAdmin_240
+  - first:
+      213: 5858036722777696127
+    second: skeldAdmin_241
+  - first:
+      213: -2820596344833365079
+    second: skeldAdmin_242
+  - first:
+      213: 1350423714359151083
+    second: skeldAdmin_243
+  - first:
+      213: -6674715328948707469
+    second: skeldAdmin_244
+  - first:
+      213: -5044387062691411543
+    second: skeldAdmin_245
+  - first:
+      213: -9193198414336739640
+    second: skeldAdmin_246
+  - first:
+      213: -4760171756559143384
+    second: skeldAdmin_247
+  - first:
+      213: 7323500177379601257
+    second: skeldAdmin_248
+  - first:
+      213: -8378866347089983593
+    second: skeldAdmin_249
+  - first:
+      213: 1899072639361138180
+    second: skeldAdmin_250
+  - first:
+      213: -4842723932733505104
+    second: skeldAdmin_251
+  - first:
+      213: 7165428466582212360
+    second: skeldAdmin_252
+  - first:
+      213: 5272893005530616982
+    second: skeldAdmin_253
+  - first:
+      213: -2845672105106879072
+    second: skeldAdmin_254
+  - first:
+      213: -8224445677991443326
+    second: skeldAdmin_255
+  - first:
+      213: 162657725961443789
+    second: skeldAdmin_256
+  - first:
+      213: 2598305189704198773
+    second: skeldAdmin_257
+  - first:
+      213: 528768243576011290
+    second: skeldAdmin_258
+  - first:
+      213: -977377773973459838
+    second: skeldAdmin_259
+  - first:
+      213: 23389230346994614
+    second: skeldAdmin_260
+  - first:
+      213: -4191576826716856321
+    second: skeldAdmin_261
+  - first:
+      213: 3834011268256571316
+    second: skeldAdmin_262
+  - first:
+      213: -4145546792267478979
+    second: skeldAdmin_263
+  - first:
+      213: 2801620676790571347
+    second: skeldAdmin_264
+  - first:
+      213: -8664815556682950994
+    second: skeldAdmin_265
+  - first:
+      213: -1377756285680501816
+    second: skeldAdmin_266
+  - first:
+      213: -5933556052609252229
+    second: skeldAdmin_267
+  - first:
+      213: -8802763066495701466
+    second: skeldAdmin_268
+  - first:
+      213: 8346401197114346684
+    second: skeldAdmin_269
+  - first:
+      213: -9111171188222833793
+    second: skeldAdmin_270
+  - first:
+      213: -6206197413694037882
+    second: skeldAdmin_271
+  - first:
+      213: 904007391849488457
+    second: skeldAdmin_272
+  - first:
+      213: 3753786754492828210
+    second: skeldAdmin_273
+  - first:
+      213: 8713781102087296948
+    second: skeldAdmin_274
+  - first:
+      213: -7230044906925613390
+    second: skeldAdmin_275
+  - first:
+      213: -4432537893806311733
+    second: skeldAdmin_276
+  - first:
+      213: -4024846549546442246
+    second: skeldAdmin_277
+  - first:
+      213: 4893557981857863185
+    second: skeldAdmin_278
+  - first:
+      213: 8195774430197348913
+    second: skeldAdmin_279
+  - first:
+      213: 4750845202623917596
+    second: skeldAdmin_280
+  - first:
+      213: -4515922258878583039
+    second: skeldAdmin_281
+  - first:
+      213: -6562997120732876861
+    second: skeldAdmin_282
+  - first:
+      213: 5049888963438387351
+    second: skeldAdmin_283
+  - first:
+      213: -1971985041055362571
+    second: skeldAdmin_284
+  - first:
+      213: -6956165076728325159
+    second: skeldAdmin_285
+  - first:
+      213: 3153875878791695544
+    second: skeldAdmin_286
+  - first:
+      213: 8845921436987971185
+    second: skeldAdmin_287
+  - first:
+      213: 4982193247630033964
+    second: skeldAdmin_288
+  - first:
+      213: -634135318423173157
+    second: skeldAdmin_289
+  - first:
+      213: -8924364560538282939
+    second: skeldAdmin_290
+  - first:
+      213: -7049472613573335754
+    second: skeldAdmin_291
+  - first:
+      213: -5987899976226329873
+    second: skeldAdmin_292
+  - first:
+      213: 4201027281596444105
+    second: skeldAdmin_293
+  - first:
+      213: 644466435051362287
+    second: skeldAdmin_294
+  - first:
+      213: 4657760390967276304
+    second: skeldAdmin_295
+  - first:
+      213: -2578223431981583145
+    second: skeldAdmin_296
+  - first:
+      213: 2926416906728330993
+    second: skeldAdmin_297
+  - first:
+      213: 8937727773477175472
+    second: skeldAdmin_298
+  - first:
+      213: -1814981323105371713
+    second: skeldAdmin_299
+  - first:
+      213: -5535878590359030943
+    second: skeldAdmin_300
+  - first:
+      213: 3850550355250107562
+    second: skeldAdmin_301
+  - first:
+      213: -4511468151265494812
+    second: skeldAdmin_302
+  - first:
+      213: 4041819114686255700
+    second: skeldAdmin_303
+  - first:
+      213: -5198807086510133790
+    second: skeldAdmin_304
+  - first:
+      213: -7083885292388798724
+    second: skeldAdmin_305
+  - first:
+      213: 1544311551808971898
+    second: skeldAdmin_306
+  - first:
+      213: 794277318527500505
+    second: skeldAdmin_307
+  - first:
+      213: 5672593699452046331
+    second: skeldAdmin_308
+  - first:
+      213: 2920405195060124360
+    second: skeldAdmin_309
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeldAdmin_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 302
+        width: 564
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e418e4198613080800000000000000
+      internalID: -9209464789699310078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_9
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 600
+        width: 555
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10900ec4b6f57efe0800000000000000
+      internalID: -1159853464568723199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 362
+        width: 575
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b243e6aa1f3beaa30800000000000000
+      internalID: 4228514950675313707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_11
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 226
+        width: 178
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a9c84cdc239a500800000000000000
+      internalID: 407913100600973855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 188
+        width: 201
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56c5ad101e6523e0800000000000000
+      internalID: -2079134637465680292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 224
+        width: 27
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b018555c5a0ee820800000000000000
+      internalID: 2949306197659357361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 224
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fb42ebd0efaddb0800000000000000
+      internalID: -4766217920640139366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 241
+        width: 113
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327c93c5ee25661a0800000000000000
+      internalID: -6816669802275682525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 119
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9618d76d8716405b0800000000000000
+      internalID: -5403086481315233431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 119
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10913ffaba8e83f80800000000000000
+      internalID: -8126489703501063935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 119
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9391d83e58661cd90800000000000000
+      internalID: -7079264414015350471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 158
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ad6e4b06b3c1cd0800000000000000
+      internalID: -2586126799479580133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 158
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7862906a5e6939930800000000000000
+      internalID: 4148825594815653511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 157
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543629ce62c28a4e0800000000000000
+      internalID: -1970276291285195963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 157
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3529a953d6e52780800000000000000
+      internalID: -8708300509034240710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_23
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 159
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d337f3f12cf9860800000000000000
+      internalID: 7538957740705791362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_24
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 155
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac5f4058b6c56000800000000000000
+      internalID: 28647467571436706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eaf599c6ea6d460800000000000000
+      internalID: 7266186830261759599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f43479bf53a53c0800000000000000
+      internalID: -4370121133718810794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50413474e5a33da0800000000000000
+      internalID: -5966242680715263907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf8f7147d98b780800000000000000
+      internalID: -8667004360930558935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16162d4528b947560800000000000000
+      internalID: 7310639079200285025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377ca13a359273830800000000000000
+      internalID: 4050751829038516083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda3b55223ea752d0800000000000000
+      internalID: -3289969472372524323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c25277b45bee5d90800000000000000
+      internalID: -7106984412856560951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b0795b3f1eea800800000000000000
+      internalID: 625685835090955104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adab911c4bdf9800800000000000000
+      internalID: 621456393359830437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_35
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4d4652b4424b200800000000000000
+      internalID: 194820589052286122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_36
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb90a5c439753b640800000000000000
+      internalID: 5094511893638941115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_37
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d4f137a86a25a60800000000000000
+      internalID: 7661369029677763874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_38
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8132e168927c03c30800000000000000
+      internalID: 4337185422315496216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_39
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423608d932ad95750800000000000000
+      internalID: 6294301800728126244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_40
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd99dbba12ad5560800000000000000
+      internalID: 7304172406369263093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_41
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e43e023705787b0800000000000000
+      internalID: -5222116787509572049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_42
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31eae06654bdab20800000000000000
+      internalID: 3147369997688037692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_43
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 61
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b33508fa18b746e0800000000000000
+      internalID: -1853310295669918799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_44
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 81
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d6660ad8daaa0d0800000000000000
+      internalID: -3410722943986668278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_45
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d63e8878674e250800000000000000
+      internalID: 5973029330289388917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 61
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff93b902585f8920800000000000000
+      internalID: 2994709386597998577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_47
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 81
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c77ead5196494db0800000000000000
+      internalID: -4807233537085376573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_48
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d14f25e2121e130800000000000000
+      internalID: 3594190460462308669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_49
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 61
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94520b1871c7a8740800000000000000
+      internalID: 5155069163880850761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_50
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 81
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4693fc253862dd500800000000000000
+      internalID: 422536285514578276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_51
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863e509628a426f20800000000000000
+      internalID: 3414373391468454760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_52
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 61
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ec9571f2d82ac60800000000000000
+      internalID: 7827974335718084227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_53
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 81
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8da0f66748e3dda0800000000000000
+      internalID: -5921133691694699125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_54
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b510fc63aa543360800000000000000
+      internalID: 7148438166497662390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_55
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 61
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7908b920d357c80800000000000000
+      internalID: -8325681254716368987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_56
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 81
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9319d3d23feb910800000000000000
+      internalID: 1855187472155228641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_57
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c17c9fe9ff482a0800000000000000
+      internalID: -6735978084378927971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_58
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 61
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e6760ba1a3fb9e0800000000000000
+      internalID: -1603499056017478062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 81
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60748dd5f3a035f90800000000000000
+      internalID: -6966212931338352890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_60
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b3658052d46f4b0800000000000000
+      internalID: -5407049481162704092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_61
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 61
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b02275c0258e580800000000000000
+      internalID: -8797691659113329790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_62
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 81
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af061cddbe576b30800000000000000
+      internalID: 4280494140373208995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_63
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cf3d8f2ae261c50800000000000000
+      internalID: 6635542378471226374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_64
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 61
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf5d2d31fae3b590800000000000000
+      internalID: -7659520219392679973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_65
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 81
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dc8be75d88e2800800000000000000
+      internalID: 589559051767565580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_66
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1ae69456f944a30800000000000000
+      internalID: 4198656009988645320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_67
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b441564ed171c9400800000000000000
+      internalID: 332165889671894091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_68
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86be4c35140bd7b0800000000000000
+      internalID: -5198556855616489844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_69
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53ab276d56570570800000000000000
+      internalID: 8432803786437403485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_70
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b74dd99b132bd10800000000000000
+      internalID: 2139827446241065839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_71
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ad345bc1defc210800000000000000
+      internalID: 1355562720417798664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_72
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f66f65a282af6d10800000000000000
+      internalID: 2121092631519782643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_73
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a073e554b1056e0800000000000000
+      internalID: -1850949462101915056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_74
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd602f113fd539b0800000000000000
+      internalID: -5100925600858608194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_75
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5c30bf770512680800000000000000
+      internalID: -8781649322153097746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_76
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a55a2545c623ba10800000000000000
+      internalID: 1923924094528148897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_77
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae56b74b538dbd160800000000000000
+      internalID: 7051467366751495658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_78
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c69d72dcffaa990800000000000000
+      internalID: -7373800183263826790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_79
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cd7309946df07a0800000000000000
+      internalID: -6408668133284389885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_80
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4cbd5c933d292e0800000000000000
+      internalID: -2120400229451971359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_81
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743471288df5b19d0800000000000000
+      internalID: -2802540959607864505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_82
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 61
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e42c2c88938d9d10800000000000000
+      internalID: 2134006489653454049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_83
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 81
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b407b514c6bca90800000000000000
+      internalID: -7292616143633626224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_84
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b78c5275e025280800000000000000
+      internalID: -9056160133229806828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_85
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 61
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c601e23e25cf6520800000000000000
+      internalID: 2697591504030992073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_86
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 81
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0f4307ed1eb3f50800000000000000
+      internalID: 6862326802710589602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_87
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218fbdff638a434c0800000000000000
+      internalID: -4308633989312415726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_88
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 61
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94421cbd23740a0e0800000000000000
+      internalID: -2260728729179184055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_89
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 81
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e06bafc7c90129f0800000000000000
+      internalID: -495103730246786843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_90
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c589cc3c48d5bfa60800000000000000
+      internalID: 7708858011976767580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_91
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21a915b9dc594e70800000000000000
+      internalID: 9099906612194812205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_92
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2d4cba25a956e90800000000000000
+      internalID: -7033045563209362771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_93
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eaf523d05b52ef0800000000000000
+      internalID: -133501545653228003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_94
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5e272302d2dd6b0800000000000000
+      internalID: -5270006372645018186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_95
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b422a410f203ef0800000000000000
+      internalID: -130552706608510127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_96
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6274fab530fa772b0800000000000000
+      internalID: -5586804383771834586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_97
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4699038068760d0800000000000000
+      internalID: -3429625221486123783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_98
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 81
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae3578bb71433cf0800000000000000
+      internalID: -273803152707993945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_99
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0697e11016671ee40800000000000000
+      internalID: 5683954363720956256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_100
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 81
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2594084b1f02e50800000000000000
+      internalID: 6782686796368663242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_101
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb7baf8f5254f780800000000000000
+      internalID: -8650198413886129230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_102
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 81
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793460b2addcbecf0800000000000000
+      internalID: -221857419716312169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_103
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1933ad45c76ec8f0800000000000000
+      internalID: -518362809992267490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_104
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 81
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6af63e1090544640800000000000000
+      internalID: 5063260460983712364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_105
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb867dd1b397c030800000000000000
+      internalID: 3514940426319989746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_106
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 81
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4aa9de4b0d0fe10800000000000000
+      internalID: 2229511291047421088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_107
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 61
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ac5af0c38de9440800000000000000
+      internalID: 4944627193371544196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_108
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 81
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e8642cb5be79530800000000000000
+      internalID: 3861813984827444781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_109
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa117a00f4a49e00800000000000000
+      internalID: 1050645963958459132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_110
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1f053ad054b6f50800000000000000
+      internalID: 6875665180988076480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_111
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24d7cd27e366bc60800000000000000
+      internalID: 7833558446414222379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_112
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce132f1897e38c9b0800000000000000
+      internalID: -5059725489758653972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_113
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453094367ee2ae040800000000000000
+      internalID: 4677602734315733844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_114
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dc7a442eade41d0800000000000000
+      internalID: -3364511206249869990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_115
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 75
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d074f299a76eb28c0800000000000000
+      internalID: -4022868427894995187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_116
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 75
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985a4585d9daee9e0800000000000000
+      internalID: -1590142727111793271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_117
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 75
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc3ae59c17463400800000000000000
+      internalID: 303508212993899764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_118
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 75
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3267a85c4e73334f0800000000000000
+      internalID: -850274448936634845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_119
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 75
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856352d1d207b56b0800000000000000
+      internalID: -5306524396861180328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_120
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 75
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede9b8c64191c0620800000000000000
+      internalID: 2741593848672919262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_121
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 75
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c25e78bb407538a0800000000000000
+      internalID: -6326026631051849015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_122
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 75
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512c30792abbb2d70800000000000000
+      internalID: 9019508985732252181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_123
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae7386afac817320800000000000000
+      internalID: 2553977149736582821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_124
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2582c667b0b1de0800000000000000
+      internalID: -1361481859100814642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_125
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3e383fa0c24a7b0800000000000000
+      internalID: -5213994043041389590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_126
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1201613a8d59810800000000000000
+      internalID: 1771560223401583094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_127
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51e11ccfaabb8b80800000000000000
+      internalID: -8391408216469020323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_128
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 75
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3e48c7f4326fc50800000000000000
+      internalID: 6698580320058663863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_129
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 75
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24268e39e6239580800000000000000
+      internalID: -8821664461870455764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_130
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 75
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94058ca7a6ae1930800000000000000
+      internalID: 4115910348547359901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_131
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62f107b7093c5bd0800000000000000
+      internalID: -2640172576248040854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_132
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a9284900d68cb30800000000000000
+      internalID: 4307812892838894183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_133
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b76be214b4070200800000000000000
+      internalID: 146090684370872246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_134
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4dc5122eb9512b0800000000000000
+      internalID: -5614409964922809128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_135
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d4a384e114dd440800000000000000
+      internalID: 4962193962748759335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_136
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74f63b5e012ca790800000000000000
+      internalID: -7517597332444613505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_137
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8482ceb58eee23b40800000000000000
+      internalID: 5418655983422154824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_138
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 75
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f11a824c951ad710800000000000000
+      internalID: 1718709968670691832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_139
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c0749e45dc35330800000000000000
+      internalID: 3698525483576003712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_140
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df6295eec44bf5f0800000000000000
+      internalID: -721907659857301543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_141
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72cecf8deb4a8690800000000000000
+      internalID: -7599177937542266246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_142
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c53564aeeb582b0800000000000000
+      internalID: -5582846249644368813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_143
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0e9b507cd103f80800000000000000
+      internalID: -8128964586771980035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a37cc78c2e7e290800000000000000
+      internalID: -7861065273837143452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_145
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cc1cec69a9062d0800000000000000
+      internalID: -3287457755475882859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_146
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd55064b553b0df0800000000000000
+      internalID: -213017891236913713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_147
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768786153bd274870800000000000000
+      internalID: 8666946256086005863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_148
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42819bde47c929df0800000000000000
+      internalID: -174905409495558108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_149
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d892d4f89d977980800000000000000
+      internalID: -8541184888016824109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_150
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7784c6a1a9bf4120800000000000000
+      internalID: 2400341230350534525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_151
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a73e539326461c0800000000000000
+      internalID: -4511372928861636067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_152
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867f1f5ef9f29d860800000000000000
+      internalID: 7555122213694863208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_153
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec78d7a764d1ce0e0800000000000000
+      internalID: -2239382726170015794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_154
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd2e3f99b50c0fa0800000000000000
+      internalID: -5833281122552894030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_155
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cad1929dd341760800000000000000
+      internalID: 7427629688347798646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_156
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e328b77b4c026210800000000000000
+      internalID: 1324634758670984161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_157
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafdc665fe91f5ea0800000000000000
+      internalID: -5881954072584724566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_158
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706e735d768119a80800000000000000
+      internalID: -8461955390614542841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_159
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3877ce00e065a20800000000000000
+      internalID: 3050641194720134073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_160
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b4fbccf0a138f90800000000000000
+      internalID: -6952684744567993525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_161
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa32b60c385e8150800000000000000
+      internalID: 5876731578598701811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_162
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b268e0a7cb8d94e40800000000000000
+      internalID: 5641278312271480363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_163
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d72b43abf33948a0800000000000000
+      internalID: -6320463446168361006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_164
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91110e970156b9e0800000000000000
+      internalID: -1606007123953512033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_165
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02ca2e1f361b0310800000000000000
+      internalID: 1372214971809317391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_166
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9121b98545ca8da30800000000000000
+      internalID: 4240328527433110041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_167
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9425eb4b3c5b5100800000000000000
+      internalID: 97773226664731807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_168
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9aee3b5a59888c0800000000000000
+      internalID: -3996780130370410056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_169
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8551dfe69c07174a0800000000000000
+      internalID: -6597367968668248744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_170
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205a61d0b504b37b0800000000000000
+      internalID: -5243526581337021182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_171
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cf3dfca9c895e30800000000000000
+      internalID: 4492776699818409078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_172
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa3c4014a7b42cb0800000000000000
+      internalID: -4889581380141565280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_173
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d2f58fcaa37a7e0800000000000000
+      internalID: -1754369015261745913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_174
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acf2bd8e210d3060800000000000000
+      internalID: 6934700300677872801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_175
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cced97887f156f0800000000000000
+      internalID: -697504301733458860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_176
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653288b17c27a4df0800000000000000
+      internalID: -195217434351230122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_177
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c763c4c93fc2e430800000000000000
+      internalID: 3810836081730086852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_178
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac1a5be6cc2de2b0800000000000000
+      internalID: -5553733532614255450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_179
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589965a8d866176a0800000000000000
+      internalID: -6453264032947857019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_180
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d47518a5830e7930800000000000000
+      internalID: 4142752579812947158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_181
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e17d1419ea022c0800000000000000
+      internalID: -4458371692198683073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_182
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321e167108726c9a0800000000000000
+      internalID: -6213235204809432797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_183
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f3a80c9dd02e700800000000000000
+      internalID: 568031731891453789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_184
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b74343206b0e760800000000000000
+      internalID: 7485182701271808859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_185
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d16c2f244c2f120800000000000000
+      internalID: 2446233339435556242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_186
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94f6b4481c28c280800000000000000
+      internalID: -9022913370693110626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_187
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d2d8f0b5049a160800000000000000
+      internalID: 7037226652590222670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_188
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e559be4f2c4e1a270800000000000000
+      internalID: 8260134717558068574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_189
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929dfe32fcff03830800000000000000
+      internalID: 4049017330132310313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_190
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ebf24194ecf3620800000000000000
+      internalID: 2756148310240640565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_191
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbd66cba1411a880800000000000000
+      internalID: -8601571708238373958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_192
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c16f998815213c0800000000000000
+      internalID: -4390357039592367039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_193
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693464efebd4f2970800000000000000
+      internalID: 8732283685199823766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_194
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a04d725ec9dea580800000000000000
+      internalID: -8813867940547051352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_195
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a460dc7bdcd78f0800000000000000
+      internalID: -541050190912140678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_196
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbb45d0c257e2dc0800000000000000
+      internalID: -3661860614942966833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_197
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 63
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85b3f84eb104d540800000000000000
+      internalID: 5031648600459031951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_198
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53380dd238760950800000000000000
+      internalID: 6414946879087850332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_199
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06b621787c5d89a0800000000000000
+      internalID: -6229221037219334645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_200
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ca2f9074d7111e0800000000000000
+      internalID: -2228862596508636023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_201
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f60a6f5967eec30800000000000000
+      internalID: 4390577073192726367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_202
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c060e9237359c2e0800000000000000
+      internalID: -2105059596730081082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_203
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b8e4dcc6df3350800000000000000
+      internalID: 5998749403914482758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_204
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2059f5bd6808df90800000000000000
+      internalID: -6928778759412035539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_205
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cfeaf4073e58b80800000000000000
+      internalID: -8393052259022341066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_206
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7bb6e60b1662950800000000000000
+      internalID: 6423929328885282814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_207
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af74716e47dc0d9d0800000000000000
+      internalID: -2751473470363187206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_208
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b1de141339453d0800000000000000
+      internalID: -3218785993894323338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_209
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c4aaf41c7a5e850800000000000000
+      internalID: 6405710493711486029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_210
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eaa196984202380800000000000000
+      internalID: -8998151882893775298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_211
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dc604109565b360800000000000000
+      internalID: 7184760450025180499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_212
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d496e581dcb0e8f0800000000000000
+      internalID: -513202749439568688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_213
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae0af0d9b318c5b0800000000000000
+      internalID: -5348002868706537809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_214
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822434a78611e45d0800000000000000
+      internalID: -3076502355021970904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_215
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7172a659626c350800000000000000
+      internalID: 6036554773709658053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_216
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3286efe7c852eb730800000000000000
+      internalID: 4016689203017312291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_217
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d72608e19293c060800000000000000
+      internalID: 6972577803460290515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_218
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ccef7fd39115040800000000000000
+      internalID: 4634513245485321284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_219
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280a0dcfcdcc004e0800000000000000
+      internalID: -2017387383555579774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_220
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d968396a0b648e0800000000000000
+      internalID: -1709484779054391914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_221
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be91d65b2f562420800000000000000
+      internalID: 2604874074225221300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_222
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55601952c9492a080800000000000000
+      internalID: -9177609692261579179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_223
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77ed29f448264eb0800000000000000
+      internalID: -4736053681430075524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_224
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19f910cb8cc14ff0800000000000000
+      internalID: -53536819956287205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_225
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911723f1c241b6880800000000000000
+      internalID: -8616771282308796135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_226
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0254cfbf5a70b6240800000000000000
+      internalID: 4785927438489896224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_227
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1311913404dd92440800000000000000
+      internalID: 4911700136697598257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_228
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9128ad9b3888379d0800000000000000
+      internalID: -2777726445817265639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_229
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2794833d5e27c3a70800000000000000
+      internalID: 8808041302646606194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_230
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be889b69ca27fcd0800000000000000
+      internalID: -2524502021535920462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_231
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42faa183390d3bf0800000000000000
+      internalID: -343107879786843572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_232
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d6b9e5871ab28b0800000000000000
+      internalID: -5175865808376861346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_233
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e76d674c759b35d0800000000000000
+      internalID: -3081705158998136855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_234
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97ada222ed008c10800000000000000
+      internalID: 2053656694976522140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_235
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87903a8028fba7350800000000000000
+      internalID: 6015330817518274936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_236
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe17faa1177a1210800000000000000
+      internalID: 1304485959843651323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_237
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82acba24256b406c0800000000000000
+      internalID: -4178014089870849496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_238
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdce9814eabc7270800000000000000
+      internalID: 8249674106264276420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_239
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4c1d384dd431cf0800000000000000
+      internalID: -282796776454241049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_240
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6a1b09d61ef5ec0800000000000000
+      internalID: -3575891718413637919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_241
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77ab56bc5deb4150800000000000000
+      internalID: 5858036722777696127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_242
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab217b819a3bd8d0800000000000000
+      internalID: -2820596344833365079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_243
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be904ae963badb210800000000000000
+      internalID: 1350423714359151083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_244
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f5821c5c5ae53a0800000000000000
+      internalID: -6674715328948707469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_245
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9c3ba51bcbef9b0800000000000000
+      internalID: -5044387062691411543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_246
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c636c3ffb23b6080800000000000000
+      internalID: -9193198414336739640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_247
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ee174020970fdb0800000000000000
+      internalID: -4760171756559143384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_248
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ba8391c9c42a560800000000000000
+      internalID: 7323500177379601257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_249
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7970a31537948bb80800000000000000
+      internalID: -8378866347089983593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_250
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eb8c7f08cda5a10800000000000000
+      internalID: 1899072639361138180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_251
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b10324bd303bccb0800000000000000
+      internalID: -4842723932733505104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_252
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fca1ee937b07360800000000000000
+      internalID: 7165428466582212360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_253
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6945b4560441d2940800000000000000
+      internalID: 5272893005530616982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_254
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adcdd32c442288d0800000000000000
+      internalID: -2845672105106879072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_255
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284c2d81b36ecdd80800000000000000
+      internalID: -8224445677991443326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_256
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc997e70750e14200800000000000000
+      internalID: 162657725961443789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_257
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a6f5abdc80f0420800000000000000
+      internalID: 2598305189704198773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_258
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1afade7aef865700800000000000000
+      internalID: 528768243576011290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_259
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c23fac718af62f0800000000000000
+      internalID: -977377773973459838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_260
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3076e8168135000800000000000000
+      internalID: 23389230346994614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_261
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff58c2851784d5c0800000000000000
+      internalID: -4191576826716856321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_262
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf174d5fe4253530800000000000000
+      internalID: 3834011268256571316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_263
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38032f082f0876c0800000000000000
+      internalID: -4145546792267478979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_264
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351dd73792b51e620800000000000000
+      internalID: 2801620676790571347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_265
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea652abc82460c780800000000000000
+      internalID: -8664815556682950994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_266
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbb3f435f931ece0800000000000000
+      internalID: -1377756285680501816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_267
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b744b5d1536c7ada0800000000000000
+      internalID: -5933556052609252229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_268
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e689b41ad46d580800000000000000
+      internalID: -8802763066495701466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_269
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc45eaeaaf54d370800000000000000
+      internalID: 8346401197114346684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_270
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b443ec31e9e8180800000000000000
+      internalID: -9111171188222833793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_271
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 5
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680a1d685582fd9a0800000000000000
+      internalID: -6206197413694037882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_272
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 17
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9402489eeedab8c00800000000000000
+      internalID: 904007391849488457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_273
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a8c103a21281430800000000000000
+      internalID: 3753786754492828210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_274
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7dc68aeb19de870800000000000000
+      internalID: 8713781102087296948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_275
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be939ca678b9ab90800000000000000
+      internalID: -7230044906925613390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_276
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6773a25467c72c0800000000000000
+      internalID: -4432537893806311733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_277
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1e3d2436fd428c0800000000000000
+      internalID: -4024846549546442246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_278
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1165a6cae0969e340800000000000000
+      internalID: 4893557981857863185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_279
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a7423db6d3db170800000000000000
+      internalID: 8195774430197348913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_280
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e644d6a846ee140800000000000000
+      internalID: 4750845202623917596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_281
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f2346c1a83451c0800000000000000
+      internalID: -4515922258878583039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_282
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf2ec414ec8be4a0800000000000000
+      internalID: -6562997120732876861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_283
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79029ecb14fc41640800000000000000
+      internalID: 5049888963438387351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_284
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1d28d9d0a12a4e0800000000000000
+      internalID: -1971985041055362571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_285
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db51a2d7bcb67f90800000000000000
+      internalID: -6956165076728325159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_286
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc4d0dd661d4cb20800000000000000
+      internalID: 3153875878791695544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_287
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1765ea2eda603ca70800000000000000
+      internalID: 8845921436987971185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_288
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c248657ac5e442540800000000000000
+      internalID: 4982193247630033964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_289
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd78bd5a9491337f0800000000000000
+      internalID: -634135318423173157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_290
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544d70b27b9462480800000000000000
+      internalID: -8924364560538282939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_291
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635ed16f10e3b2e90800000000000000
+      internalID: -7049472613573335754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_292
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaa57662b4b6eca0800000000000000
+      internalID: -5987899976226329873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_293
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cde74bfd0c0d4a30800000000000000
+      internalID: 4201027281596444105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_294
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe716e2eeca91f800800000000000000
+      internalID: 644466435051362287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_295
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0133d70d560b3a040800000000000000
+      internalID: 4657760390967276304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_296
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d43629d27f483cd0800000000000000
+      internalID: -2578223431981583145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_297
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f65d3efba8bc9820800000000000000
+      internalID: 2926416906728330993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_298
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0004d4e00390c70800000000000000
+      internalID: 8937727773477175472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_299
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9f5525a14efc6e0800000000000000
+      internalID: -1814981323105371713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_300
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163b5fd90cb9c23b0800000000000000
+      internalID: -5535878590359030943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_301
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4df62a527ef6530800000000000000
+      internalID: 3850550355250107562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_302
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8f4548e9b0461c0800000000000000
+      internalID: -4511468151265494812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_303
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4521241021d671830800000000000000
+      internalID: 4041819114686255700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_304
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eda7c0df702ad7b0800000000000000
+      internalID: -5198807086510133790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_305
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe2d8dcbdbf0bd90800000000000000
+      internalID: -7083885292388798724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_306
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a742b1c9c2f7e6510800000000000000
+      internalID: 1544311551808971898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_307
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d04bff4307d50b00800000000000000
+      internalID: 794277318527500505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_308
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb45fa3ae919be40800000000000000
+      internalID: 5672593699452046331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldAdmin_309
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 5
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca93cb4d0d578820800000000000000
+      internalID: 2920405195060124360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

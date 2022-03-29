@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: 4ba23f1b1a7edc84caab76cf91f5f821
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8438845878519579118
+    second: skeldEngines_0
+  - first:
+      213: -2856382336083627222
+    second: skeldEngines_1
+  - first:
+      213: -6178433805193602860
+    second: skeldEngines_2
+  - first:
+      213: -9057275844968722887
+    second: skeldEngines_3
+  - first:
+      213: -6864020615496771036
+    second: skeldEngines_4
+  - first:
+      213: -2360699886356437832
+    second: skeldEngines_5
+  - first:
+      213: 9051174725578893169
+    second: skeldEngines_6
+  - first:
+      213: 907419593725121732
+    second: skeldEngines_7
+  - first:
+      213: 5240171982871110907
+    second: skeldEngines_8
+  - first:
+      213: 2119587467145925817
+    second: skeldEngines_9
+  - first:
+      213: -7299897220938449301
+    second: skeldEngines_10
+  - first:
+      213: 8143178335897786807
+    second: skeldEngines_11
+  - first:
+      213: 3343630478964438393
+    second: skeldEngines_12
+  - first:
+      213: 2711660612122359089
+    second: skeldEngines_13
+  - first:
+      213: 1774718863748856789
+    second: skeldEngines_14
+  - first:
+      213: -2995651149822707521
+    second: skeldEngines_15
+  - first:
+      213: -5043195035843924647
+    second: skeldEngines_16
+  - first:
+      213: 8506743845143876597
+    second: skeldEngines_17
+  - first:
+      213: 2947071568328383627
+    second: skeldEngines_18
+  - first:
+      213: 5683898896149972171
+    second: skeldEngines_19
+  - first:
+      213: -5836650957246500937
+    second: skeldEngines_20
+  - first:
+      213: 7642794039368322418
+    second: skeldEngines_21
+  - first:
+      213: 876343392882694344
+    second: skeldEngines_22
+  - first:
+      213: -560867021252997747
+    second: skeldEngines_23
+  - first:
+      213: 4488442858500260790
+    second: skeldEngines_24
+  - first:
+      213: -1783605761124487513
+    second: skeldEngines_25
+  - first:
+      213: -2602676238334868844
+    second: skeldEngines_26
+  - first:
+      213: 1706647945944855395
+    second: skeldEngines_27
+  - first:
+      213: -1274446423119337381
+    second: skeldEngines_28
+  - first:
+      213: -2161907275266775459
+    second: skeldEngines_29
+  - first:
+      213: 7701399099111129772
+    second: skeldEngines_30
+  - first:
+      213: 6765016584425640484
+    second: skeldEngines_31
+  - first:
+      213: -8237208393084710949
+    second: skeldEngines_32
+  - first:
+      213: -561230759027156694
+    second: skeldEngines_33
+  - first:
+      213: -7937388007136471786
+    second: skeldEngines_34
+  - first:
+      213: -8864897603781419074
+    second: skeldEngines_35
+  - first:
+      213: 4386526994213244105
+    second: skeldEngines_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeldEngines_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 501
+        width: 422
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e3298626233ea80800000000000000
+      internalID: -8438845878519579118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 501
+        width: 434
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23f80b26671c58d0800000000000000
+      internalID: -2856382336083627222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_2
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 947
+        width: 217
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d89b2d503bc14aa0800000000000000
+      internalID: -6178433805193602860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_3
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 837
+        width: 63
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ec9e34b971e4280800000000000000
+      internalID: -9057275844968722887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_4
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 942
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a5b5a0e991eb0a0800000000000000
+      internalID: -6864020615496771036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_5
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 953
+        width: 6
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b46b6cf5fb1d3fd0800000000000000
+      internalID: -2360699886356437832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 223
+        width: 310
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177af1e257b3c9d70800000000000000
+      internalID: 9051174725578893169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 223
+        width: 310
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c41732105dc79c00800000000000000
+      internalID: 907419593725121732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_8
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 223
+        width: 310
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4acf0a7a4d8b840800000000000000
+      internalID: 5240171982871110907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_9
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 223
+        width: 310
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b45a9142994a6d10800000000000000
+      internalID: 2119587467145925817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 189
+        width: 67
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e3a11772e81ba90800000000000000
+      internalID: -7299897220938449301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 199
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b918d55d81620170800000000000000
+      internalID: 8143178335897786807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 178
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97538de8436f66e20800000000000000
+      internalID: 3343630478964438393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 200
+        width: 67
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135b8f0b5f0c1a520800000000000000
+      internalID: 2711660612122359089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 186
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db7fe9576111a810800000000000000
+      internalID: 1774718863748856789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 201
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8b3df962f4d66d0800000000000000
+      internalID: -2995651149822707521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 201
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d628bb5d8f20ab0800000000000000
+      internalID: -5043195035843924647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_17
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 184
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f39a0dd4760e0670800000000000000
+      internalID: 8506743845143876597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_18
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 181
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cddd52af916e820800000000000000
+      internalID: 2947071568328383627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_19
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 195
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc401447ee341ee40800000000000000
+      internalID: 5683898896149972171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_20
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 193
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfe067d0ec000fa0800000000000000
+      internalID: -5836650957246500937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_21
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 168
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d85008fa8a01a60800000000000000
+      internalID: 7642794039368322418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_22
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 196
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8980a3ca5692c00800000000000000
+      internalID: 876343392882694344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_23
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 198
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dcbff6a666738f0800000000000000
+      internalID: -560867021252997747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 116
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b30c8fbff62a4e30800000000000000
+      internalID: 4488442858500260790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 86
+        width: 17
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aea5dc920c5f37e0800000000000000
+      internalID: -1783605761124487513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 102
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49243b430cf61ebd0800000000000000
+      internalID: -2602676238334868844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 123
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36371beb34b3fa710800000000000000
+      internalID: 1706647945944855395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 122
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5864b00bb1405ee0800000000000000
+      internalID: -1274446423119337381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 128
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56246499cc5ff1e0800000000000000
+      internalID: -2161907275266775459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 129
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca248084dadd0ea60800000000000000
+      internalID: 7701399099111129772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_31
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 143
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422115eadba22ed50800000000000000
+      internalID: 6765016584425640484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 133
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfc15deb9e8fad80800000000000000
+      internalID: -8237208393084710949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 34
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29d923299b1638f0800000000000000
+      internalID: -561230759027156694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 16
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6155f2e59abb8d190800000000000000
+      internalID: -7937388007136471786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 30
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf956cf89e89f480800000000000000
+      internalID: -8864897603781419074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeldEngines_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 57
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc0eb77f0310ec30800000000000000
+      internalID: 4386526994213244105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
